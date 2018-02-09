@@ -1,0 +1,1943 @@
+mo_pack : No source.fn key found.
+conda-smithy : No source.fn key found.
+conda-forge/mo_pack-feedstock
+mo_pack : No source.fn key found.
+conda-forge/conda-smithy-feedstock
+conda-smithy : No source.fn key found.
+conda-forge/obvious-ci-feedstock
+obvious-ci : Could not get package name from source.fn key.
+conda-forge/cycler-feedstock
+cycler : Could not get package name from source.fn key.
+conda-forge/matplotlib-feedstock
+matplotlib : No source.fn key found.
+conda-forge/conda-build-all-feedstock
+conda-build-all : Could not get package name from source.fn key.
+conda-forge/pyproj-feedstock
+pyproj : No releases found on GitHub.
+conda-forge/wcwidth-feedstock
+conda-forge/wcwidth-feedstock : Not on GitHub or PyPI
+conda-forge/conda-execute-feedstock
+conda-forge/xonsh-feedstock
+conda-forge/ruamel.ordereddict-feedstock
+conda-forge/ruamel.ordereddict-feedstock : Not on GitHub or PyPI
+conda-forge/ruamel.yaml-feedstock
+conda-forge/ruamel.yaml-feedstock : Not on GitHub or PyPI
+conda-forge/setproctitle-feedstock
+conda-forge/setproctitle-feedstock : Not on GitHub or PyPI
+conda-forge/smmap-feedstock
+conda-forge/smmap-feedstock : Not on GitHub or PyPI
+conda-forge/functools32-feedstock
+mo_pack : No source.fn key found.
+conda-smithy : No source.fn key found.
+obvious-ci : Could not get package name from source.fn key.
+cycler : Could not get package name from source.fn key.
+matplotlib : No source.fn key found.
+conda-build-all : Could not get package name from source.fn key.
+pyproj : No releases found on GitHub.
+conda-forge/wcwidth-feedstock : Not on GitHub or PyPI
+conda-forge/ruamel.ordereddict-feedstock : Not on GitHub or PyPI
+conda-forge/ruamel.yaml-feedstock : Not on GitHub or PyPI
+conda-forge/setproctitle-feedstock : Not on GitHub or PyPI
+conda-forge/smmap-feedstock : Not on GitHub or PyPI
+functools32 : Could not get package name from source.fn key.
+conda-forge/gitpython-feedstock : Not on GitHub or PyPI
+conda-forge/msinttypes-feedstock : Not on GitHub or PyPI
+conda-forge/pygithub-feedstock : Not on GitHub or PyPI
+conda-forge/tifffile-feedstock : Not on GitHub or PyPI
+conda-forge/metpy-feedstock : Not on GitHub or PyPI
+conda-forge/pint-feedstock : Not on GitHub or PyPI
+protobuf : No source.fn key found.
+conda-forge/siphon-feedstock : Not on GitHub or PyPI
+conda-forge/conda-testenv-feedstock : No source.url key found.
+conda-forge/gitdb-feedstock : Not on GitHub or PyPI
+conda-forge/shapely-feedstock : Not on GitHub or PyPI
+geos : No source.fn key found.
+trmm_rsl : Could not get package name from source.fn key.
+conda-forge/arm_pyart-feedstock : Not on GitHub or PyPI
+conda-forge/contextlib2-feedstock : Not on GitHub or PyPI
+conda-forge/mingwpy-feedstock : Not on GitHub or PyPI
+conda-forge/netcdf4-feedstock : Not on GitHub or PyPI
+conda-forge/prompt_toolkit-feedstock : Not on GitHub or PyPI
+conda-forge/vcrpy-feedstock : Not on GitHub or PyPI
+conda-forge/pep8-naming-feedstock : Not on GitHub or PyPI
+conda-forge/tensorflow-feedstock : No source.url key found.
+conda-forge/wradlib-feedstock : Not on GitHub or PyPI
+conda-forge/qutip-feedstock : Not on GitHub or PyPI
+conda-forge/gdal-feedstock : Not on GitHub or PyPI
+openjpeg : No source.fn key found.
+antlr : Could not find repo on GitHub.
+conda-forge/expat-feedstock : Not on GitHub or PyPI
+conda-forge/gsl-feedstock : Not on GitHub or PyPI
+nco : No source.fn key found.
+udunits2 : No source.fn key found.
+conda-forge/amqp-feedstock : Not on GitHub or PyPI
+conda-forge/anyjson-feedstock : Not on GitHub or PyPI
+conda-forge/kombu-feedstock : Not on GitHub or PyPI
+conda-forge/billiard-feedstock : Not on GitHub or PyPI
+conda-forge/celery-feedstock : Not on GitHub or PyPI
+conda-forge/flower-feedstock : Not on GitHub or PyPI
+pandoc : No source.fn key found.
+conda-forge/cyordereddict-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-cov-feedstock : Not on GitHub or PyPI
+conda-forge/autoconf-feedstock : Not on GitHub or PyPI
+conda-forge/automake-feedstock : Not on GitHub or PyPI
+conda-forge/m4-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-runner-feedstock : Not on GitHub or PyPI
+conda-forge/g2clib-feedstock : Not on GitHub or PyPI
+conda-forge/hdfeos2-feedstock : Not on GitHub or PyPI
+conda-forge/hdfeos5-feedstock : Not on GitHub or PyPI
+conda-forge/jasper-feedstock : Not on GitHub or PyPI
+conda-forge/libiconv-feedstock : Not on GitHub or PyPI
+pynio : No source.fn key found.
+conda-forge/qimage2ndarray-feedstock : Not on GitHub or PyPI
+conda-forge/cmake-feedstock : Not on GitHub or PyPI
+conda-forge/fftw-feedstock : Could not parse meta.yaml
+conda-forge/perl-feedstock : Not on GitHub or PyPI
+conda-forge/libtool-feedstock : Not on GitHub or PyPI
+conda-forge/pyfftw-feedstock : Not on GitHub or PyPI
+onig : Could not find repo on GitHub.
+conda-forge/pytest-mpl-feedstock : Not on GitHub or PyPI
+conda-forge/pkg-config-feedstock : Not on GitHub or PyPI
+conda-forge/pixman-feedstock : Not on GitHub or PyPI
+conda-forge/glances-feedstock : Not on GitHub or PyPI
+conda-forge/mahotas-feedstock : Not on GitHub or PyPI
+conda-forge/esmf-feedstock : Not on GitHub or PyPI
+conda-forge/esmpy-feedstock : No source.url key found.
+netcdf-fortran : No source.fn key found.
+conda-forge/h5netcdf-feedstock : Not on GitHub or PyPI
+conda-forge/proj.4-feedstock : Not on GitHub or PyPI
+conda-forge/webcolors-feedstock : Not on GitHub or PyPI
+conda-forge/freeimage-feedstock : Not on GitHub or PyPI
+conda-forge/cloudpickle-feedstock : Not on GitHub or PyPI
+conda-forge/ncurses-feedstock : Not on GitHub or PyPI
+conda-forge/splauncher-feedstock : Not on GitHub or PyPI
+leveldb : Could not get package name from source.fn key.
+conda-forge/click-plugins-feedstock : Not on GitHub or PyPI
+conda-forge/descartes-feedstock : Not on GitHub or PyPI
+conda-forge/fiona-feedstock : Not on GitHub or PyPI
+conda-forge/folium-feedstock : Not on GitHub or PyPI
+geopandas : No source.fn key found.
+conda-forge/libspatialindex-feedstock : Not on GitHub or PyPI
+conda-forge/munch-feedstock : Not on GitHub or PyPI
+rtree : No releases found on GitHub.
+conda-forge/vincent-feedstock : Not on GitHub or PyPI
+git : Could not get package name from source.fn key.
+conda-forge/cf_units-feedstock : Not on GitHub or PyPI
+conda-forge/cdo-feedstock : Not on GitHub or PyPI
+conda-forge/libuuid-feedstock : Not on GitHub or PyPI
+conda-forge/ctd-feedstock : Not on GitHub or PyPI
+conda-forge/gsw-feedstock : Not on GitHub or PyPI
+seawater : Could not find repo on GitHub.
+conda-forge/appdirs-feedstock : Not on GitHub or PyPI
+conda-forge/freezegun-feedstock : Not on GitHub or PyPI
+conda-forge/geojson-feedstock : Not on GitHub or PyPI
+conda-forge/httpretty-feedstock : Not on GitHub or PyPI
+conda-forge/isodate-feedstock : Not on GitHub or PyPI
+conda-forge/suds-jurko-feedstock : Not on GitHub or PyPI
+conda-forge/ulmo-feedstock : Not on GitHub or PyPI
+epic2cf : No releases found on GitHub.
+flopy : No source.fn key found.
+modflow2netcdf : No releases found on GitHub.
+conda-forge/pyncml-feedstock : Not on GitHub or PyPI
+conda-forge/windrose-feedstock : Not on GitHub or PyPI
+conda-forge/glpk-feedstock : Not on GitHub or PyPI
+cartopy : No source.fn key found.
+conda-forge/owslib-feedstock : Not on GitHub or PyPI
+conda-forge/pyshp-feedstock : Not on GitHub or PyPI
+lmdb : Could not get package name from source.fn key.
+conda-forge/mox-feedstock : Not on GitHub or PyPI
+conda-forge/compliance-checker-feedstock : Not on GitHub or PyPI
+conda-forge/petulant-bear-feedstock : No source.url key found.
+conda-forge/pygeoif-feedstock : Not on GitHub or PyPI
+conda-forge/wicken-feedstock : No source.url key found.
+conda-forge/auditwheel-feedstock : Not on GitHub or PyPI
+conda-forge/pyelftools-feedstock : Not on GitHub or PyPI
+conda-forge/rank_filter-feedstock : Not on GitHub or PyPI
+conda-forge/typing-feedstock : Not on GitHub or PyPI
+csa : Could not get package name from source.fn key.
+gridgen : Could not get package name from source.fn key.
+gridutils : Could not get package name from source.fn key.
+nn : Could not get package name from source.fn key.
+pygridgen : No source.fn key found.
+conda-forge/pygridtools-feedstock : No source.url key found.
+conda-forge/python-cdo-feedstock : Not on GitHub or PyPI
+conda-forge/django-feedstock : Not on GitHub or PyPI
+conda-forge/django-nested-inline-feedstock : Not on GitHub or PyPI
+conda-forge/django-redis-cache-feedstock : Not on GitHub or PyPI
+conda-forge/django-taggit-feedstock : Not on GitHub or PyPI
+conda-forge/boost-feedstock : Not on GitHub or PyPI
+conda-forge/hdf5-feedstock : Not on GitHub or PyPI
+basemap : No source.fn key found.
+basemap-data-hires : No source.fn key found.
+h5py : No source.fn key found.
+conda-forge/icu-feedstock : Not on GitHub or PyPI
+conda-forge/giflib-feedstock : Not on GitHub or PyPI
+conda-forge/gmp-feedstock : Not on GitHub or PyPI
+mpfr : Could not get package name from source.fn key.
+vigra : Could not get package name from source.fn key.
+conda-forge/mpir-feedstock : Not on GitHub or PyPI
+conda-forge/yasm-feedstock : Could not parse meta.yaml
+conda-forge/x264-feedstock : Not on GitHub or PyPI
+flann : No releases found on GitHub.
+flann : No releases found on GitHub.
+libmo_unpack : Could not get package name from source.fn key.
+conda-forge/texinfo-feedstock : Not on GitHub or PyPI
+conda-forge/yt-feedstock : Not on GitHub or PyPI
+conda-forge/affine-feedstock : Not on GitHub or PyPI
+conda-forge/rasterio-feedstock : Not on GitHub or PyPI
+conda-forge/libblitz-feedstock : Not on GitHub or PyPI
+flex : No source.fn key found.
+conda-forge/bison-feedstock : Not on GitHub or PyPI
+netcdf-cxx4 : No source.fn key found.
+conda-forge/sox-feedstock : Not on GitHub or PyPI
+conda-forge/libatomic_ops-feedstock : Not on GitHub or PyPI
+conda-forge/libunistring-feedstock : Not on GitHub or PyPI
+conda-forge/libffi-feedstock : Not on GitHub or PyPI
+bdw-gc : Could not get package name from source.fn key.
+conda-forge/json-c-feedstock : Not on GitHub or PyPI
+conda-forge/awesome-slugify-feedstock : Not on GitHub or PyPI
+conda-forge/django-debug-toolbar-feedstock : Not on GitHub or PyPI
+conda-forge/django-extensions-feedstock : Not on GitHub or PyPI
+conda-forge/django-grappelli-feedstock : Not on GitHub or PyPI
+conda-forge/django-typed-models-feedstock : Not on GitHub or PyPI
+conda-forge/djangorestframework-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-django-feedstock : Not on GitHub or PyPI
+conda-forge/regex-feedstock : Not on GitHub or PyPI
+conda-forge/requests-toolbelt-feedstock : Not on GitHub or PyPI
+conda-forge/setuptools_scm-feedstock : Not on GitHub or PyPI
+conda-forge/eigen-feedstock : Not on GitHub or PyPI
+django_polymorphic : No releases found on GitHub.
+conda-forge/freexl-feedstock : Not on GitHub or PyPI
+conda-forge/jplephem-feedstock : Not on GitHub or PyPI
+poliastro : Could not get package name from source.fn key.
+zeromq : Could not find repo on GitHub.
+conda-forge/ffmpeg-feedstock : Not on GitHub or PyPI
+conda-forge/bob.extension-feedstock : Not on GitHub or PyPI
+biggus : Could not get package name from source.fn key.
+conda-forge/ecmwf_grib-feedstock : Not on GitHub or PyPI
+conda-forge/pyke-feedstock : Not on GitHub or PyPI
+conda-forge/libxml2-feedstock : Not on GitHub or PyPI
+conda-forge/pyamg-feedstock : Not on GitHub or PyPI
+conda-forge/nuitka-feedstock : Not on GitHub or PyPI
+conda-forge/libspatialite-feedstock : Not on GitHub or PyPI
+conda-forge/megaman-feedstock : Not on GitHub or PyPI
+caffe : Could not get package name from source.fn key.
+conda-forge/snuggs-feedstock : Not on GitHub or PyPI
+conda-forge/primesieve-feedstock : Not on GitHub or PyPI
+conda-forge/ipython-feedstock : Not on GitHub or PyPI
+cmt : Could not get package name from source.fn key.
+conda-forge/bob.blitz-feedstock : Not on GitHub or PyPI
+conda-forge/mpld3-feedstock : Not on GitHub or PyPI
+mplexporter : Could not get package name from source.fn key.
+conda-forge/mplleaflet-feedstock : Not on GitHub or PyPI
+conda-forge/nodejs-feedstock : Not on GitHub or PyPI
+conda-forge/jupyter_core-feedstock : Not on GitHub or PyPI
+conda-forge/notebook-feedstock : Not on GitHub or PyPI
+conda-forge/ipykernel-feedstock : Not on GitHub or PyPI
+conda-forge/nbconvert-feedstock : Not on GitHub or PyPI
+conda-forge/babel-feedstock : Not on GitHub or PyPI
+conda-forge/colorlog-feedstock : Not on GitHub or PyPI
+ninja : Could not get package name from source.fn key.
+conda-forge/configparser-feedstock : Not on GitHub or PyPI
+conda-forge/entrypoints-feedstock : Not on GitHub or PyPI
+valideer : No releases found on GitHub.
+conda-forge/bob.core-feedstock : Not on GitHub or PyPI
+conda-forge/binutils-feedstock : Not on GitHub or PyPI
+conda-forge/spyne-feedstock : Not on GitHub or PyPI
+betamax : No releases found on GitHub.
+conda-forge/geojsonio-feedstock : Not on GitHub or PyPI
+geolinks : No releases found on GitHub.
+conda-forge/github3.py-feedstock : Not on GitHub or PyPI
+conda-forge/paegan-feedstock : Not on GitHub or PyPI
+conda-forge/palettable-feedstock : Not on GitHub or PyPI
+conda-forge/pycsw-feedstock : Not on GitHub or PyPI
+conda-forge/uritemplate.py-feedstock : Not on GitHub or PyPI
+yaml2ncml : No source.fn key found.
+conda-forge/pyzmq-feedstock : Not on GitHub or PyPI
+conda-forge/blinker-feedstock : Not on GitHub or PyPI
+conda-forge/feedgenerator-feedstock : Not on GitHub or PyPI
+conda-forge/ghp-import-feedstock : Not on GitHub or PyPI
+conda-forge/pelican-feedstock : Not on GitHub or PyPI
+conda-forge/mistune-feedstock : Not on GitHub or PyPI
+conda-forge/traitlets-feedstock : Not on GitHub or PyPI
+conda-forge/terminado-feedstock : Not on GitHub or PyPI
+xo : Could not get package name from source.fn key.
+conda-forge/markupsafe-feedstock : Not on GitHub or PyPI
+conda-forge/pygments-feedstock : Not on GitHub or PyPI
+conda-forge/certifi-feedstock : Not on GitHub or PyPI
+conda-forge/tornado-feedstock : Not on GitHub or PyPI
+cell_tree2d : No source.fn key found.
+ciso : No source.fn key found.
+conda-forge/ioos_qartod-feedstock : Not on GitHub or PyPI
+paegan-transport : No releases found on GitHub.
+pysgrid : Could not get package name from source.fn key.
+conda-forge/quantities-feedstock : Not on GitHub or PyPI
+eofs : Could not get package name from source.fn key.
+gridfill : Could not get package name from source.fn key.
+pyspharm : No source.fn key found.
+conda-forge/bob.io.base-feedstock : Could not parse meta.yaml
+conda-forge/bob.math-feedstock : Not on GitHub or PyPI
+conda-forge/pexpect-feedstock : Not on GitHub or PyPI
+conda-forge/ptyprocess-feedstock : Not on GitHub or PyPI
+conda-forge/python-drmaa-feedstock : Not on GitHub or PyPI
+conda-forge/pickleshare-feedstock : Not on GitHub or PyPI
+conda-forge/metakernel-feedstock : Not on GitHub or PyPI
+conda-forge/oct2py-feedstock : Not on GitHub or PyPI
+pymatbridge : Could not find repo on GitHub.
+livereload : Could not find repo on GitHub.
+conda-forge/mkdocs-feedstock : Not on GitHub or PyPI
+conda-forge/mkdocs-bootstrap-feedstock : Not on GitHub or PyPI
+conda-forge/mkdocs-bootswatch-feedstock : Not on GitHub or PyPI
+conda-forge/pyutilib-feedstock : Not on GitHub or PyPI
+conda-forge/bob.io.matlab-feedstock : Not on GitHub or PyPI
+conda-forge/ckanapi-feedstock : Not on GitHub or PyPI
+conda-forge/gpxpy-feedstock : Not on GitHub or PyPI
+gridgeo : Could not get package name from source.fn key.
+conda-forge/pygeogrids-feedstock : Not on GitHub or PyPI
+conda-forge/pykdtree-feedstock : Not on GitHub or PyPI
+conda-forge/pykml-feedstock : Not on GitHub or PyPI
+conda-forge/pyresample-feedstock : Not on GitHub or PyPI
+conda-forge/pyscaffold-feedstock : Not on GitHub or PyPI
+conda-forge/httplib2-feedstock : Not on GitHub or PyPI
+conda-forge/pydap-feedstock : Not on GitHub or PyPI
+conda-forge/patchelf-feedstock : Not on GitHub or PyPI
+conda-forge/bob.learn.activation-feedstock : Not on GitHub or PyPI
+conda-forge/bob.io.video-feedstock : Not on GitHub or PyPI
+conda-forge/bob.io.image-feedstock : Could not parse meta.yaml
+conda-forge/bob.measure-feedstock : Not on GitHub or PyPI
+conda-forge/bob.sp-feedstock : Not on GitHub or PyPI
+conda-forge/bob.io.audio-feedstock : Not on GitHub or PyPI
+conda-forge/ipywidgets-feedstock : Not on GitHub or PyPI
+conda-forge/jupyter_client-feedstock : Not on GitHub or PyPI
+conda-forge/jupyter_console-feedstock : Not on GitHub or PyPI
+conda-forge/nbformat-feedstock : Not on GitHub or PyPI
+conda-forge/ibis-framework-feedstock : Not on GitHub or PyPI
+conda-forge/impyla-feedstock : Not on GitHub or PyPI
+conda-forge/python-hdfs-feedstock : Not on GitHub or PyPI
+conda-forge/thrift-feedstock : Not on GitHub or PyPI
+conda-forge/thriftpy-feedstock : Not on GitHub or PyPI
+conda-forge/bob.ap-feedstock : Not on GitHub or PyPI
+conda-forge/libsvm-feedstock : Could not parse meta.yaml
+conda-forge/zlib-feedstock : Not on GitHub or PyPI
+conda-forge/pygrib-feedstock : Not on GitHub or PyPI
+conda-forge/jpeg-feedstock : Not on GitHub or PyPI
+conda-forge/hdf4-feedstock : Not on GitHub or PyPI
+conda-forge/nitime-feedstock : Not on GitHub or PyPI
+oceans : Could not find repo on GitHub.
+pygdp : No source.fn key found.
+conda-forge/pyhdf-feedstock : Not on GitHub or PyPI
+conda-forge/pyhum-feedstock : Not on GitHub or PyPI
+pyseidon : Could not get package name from source.fn key.
+conda-forge/python-ternary-feedstock : Not on GitHub or PyPI
+PyWavelets : Could not find repo on GitHub.
+conda-forge/qrcode-feedstock : Not on GitHub or PyPI
+conda-forge/spyre-feedstock : Not on GitHub or PyPI
+conda-forge/uncertainties-feedstock : Not on GitHub or PyPI
+conda-forge/utide-feedstock : Not on GitHub or PyPI
+conda-forge/libtiff-feedstock : Not on GitHub or PyPI
+conda-forge/python-ecmwf_grib-feedstock : Not on GitHub or PyPI
+conda-forge/xz-feedstock : Not on GitHub or PyPI
+conda-forge/ipyparallel-feedstock : Not on GitHub or PyPI
+conda-forge/bob.db.base-feedstock : Not on GitHub or PyPI
+conda-forge/pcre-feedstock : Not on GitHub or PyPI
+conda-forge/pyface-feedstock : Not on GitHub or PyPI
+conda-forge/traitsui-feedstock : Not on GitHub or PyPI
+conda-forge/libsigcpp-feedstock : Not on GitHub or PyPI
+conda-forge/bob.learn.boosting-feedstock : Not on GitHub or PyPI
+conda-forge/bob.learn.libsvm-feedstock : Not on GitHub or PyPI
+conda-forge/bob.ip.color-feedstock : Not on GitHub or PyPI
+conda-forge/bob.ip.draw-feedstock : Not on GitHub or PyPI
+conda-forge/bob.ip.gabor-feedstock : Not on GitHub or PyPI
+conda-forge/bob.learn.linear-feedstock : Not on GitHub or PyPI
+conda-forge/bob.learn.mlp-feedstock : Not on GitHub or PyPI
+conda-forge/bob.db.wine-feedstock : Not on GitHub or PyPI
+conda-forge/bob.db.mnist-feedstock : Not on GitHub or PyPI
+conda-forge/pillow-feedstock : Not on GitHub or PyPI
+conda-forge/isl-feedstock : Not on GitHub or PyPI
+conda-forge/cloog-feedstock : Not on GitHub or PyPI
+conda-forge/gettext-feedstock : Not on GitHub or PyPI
+conda-forge/bob.db.atnt-feedstock : Not on GitHub or PyPI
+conda-forge/bob.db.iris-feedstock : Not on GitHub or PyPI
+conda-forge/bob.ip.optflow.liu-feedstock : Not on GitHub or PyPI
+conda-forge/bob.ip.optflow.hornschunck-feedstock : Not on GitHub or PyPI
+conda-forge/colorama-feedstock : Not on GitHub or PyPI
+conda-forge/backports.shutil_get_terminal_size-feedstock : Not on GitHub or PyPI
+conda-forge/jsonschema-feedstock : Not on GitHub or PyPI
+conda-forge/kealib-feedstock : Not on GitHub or PyPI
+conda-forge/configurable-http-proxy-feedstock : Could not parse meta.yaml
+conda-forge/rios-feedstock : Not on GitHub or PyPI
+conda-forge/snappy-feedstock : Could not parse meta.yaml
+conda-forge/psutil-feedstock : Not on GitHub or PyPI
+conda-forge/ordered-set-feedstock : Not on GitHub or PyPI
+conda-forge/widgetsnbextension-feedstock : Not on GitHub or PyPI
+conda-forge/libpng-feedstock : Not on GitHub or PyPI
+conda-forge/vlfeat-feedstock : Not on GitHub or PyPI
+erlang : Could not get package name from source.fn key.
+conda-forge/fontconfig-feedstock : Not on GitHub or PyPI
+conda-forge/pyomo-feedstock : Not on GitHub or PyPI
+conda-forge/cairo-feedstock : Not on GitHub or PyPI
+conda-forge/eccodes-feedstock : Not on GitHub or PyPI
+conda-forge/invoke-feedstock : Not on GitHub or PyPI
+conda-forge/phreeqpy-feedstock : Not on GitHub or PyPI
+iris : Could not get package name from source.fn key.
+conda-forge/bob.ip.base-feedstock : Not on GitHub or PyPI
+conda-forge/tabulate-feedstock : Not on GitHub or PyPI
+conda-forge/termcolor-feedstock : Not on GitHub or PyPI
+conda-forge/cloud_sptheme-feedstock : Not on GitHub or PyPI
+conda-forge/nose-timer-feedstock : Not on GitHub or PyPI
+conda-forge/python-coveralls-feedstock : Not on GitHub or PyPI
+conda-forge/docstring-coverage-feedstock : Not on GitHub or PyPI
+conda-forge/helper-feedstock : Not on GitHub or PyPI
+conda-forge/pika-feedstock : Not on GitHub or PyPI
+conda-forge/miktex-feedstock : Not on GitHub or PyPI
+conda-forge/rejected-feedstock : Not on GitHub or PyPI
+conda-forge/jinja2-feedstock : Not on GitHub or PyPI
+conda-forge/serpent-feedstock : Not on GitHub or PyPI
+conda-forge/python-dateutil-feedstock : Not on GitHub or PyPI
+conda-forge/bob.ip.facedetect-feedstock : Not on GitHub or PyPI
+conda-forge/bob.learn.em-feedstock : Not on GitHub or PyPI
+conda-forge/nose-feedstock : Not on GitHub or PyPI
+conda-forge/spyder-feedstock : Not on GitHub or PyPI
+conda-forge/cython-feedstock : Not on GitHub or PyPI
+conda-forge/bob-feedstock : Not on GitHub or PyPI
+conda-forge/feather-format-feedstock : Not on GitHub or PyPI
+conda-forge/mpmath-feedstock : Not on GitHub or PyPI
+conda-forge/sympy-feedstock : Not on GitHub or PyPI
+conda-forge/jupyterhub-feedstock : Not on GitHub or PyPI
+conda-forge/pamela-feedstock : Not on GitHub or PyPI
+conda-forge/tempita-feedstock : Not on GitHub or PyPI
+conda-forge/bqplot-feedstock : Not on GitHub or PyPI
+conda-forge/pythreejs-feedstock : Not on GitHub or PyPI
+conda-forge/ipyleaflet-feedstock : Not on GitHub or PyPI
+conda-forge/ca-certificates-feedstock : Not on GitHub or PyPI
+conda-forge/gnureadline-feedstock : Not on GitHub or PyPI
+conda-forge/tuiview-feedstock : Not on GitHub or PyPI
+conda-forge/vc-feedstock : Could not parse meta.yaml
+pypandoc : No releases found on GitHub.
+conda-forge/bottleneck-feedstock : Not on GitHub or PyPI
+conda-forge/nose_parameterized-feedstock : Not on GitHub or PyPI
+conda-forge/glib-feedstock : Not on GitHub or PyPI
+conda-forge/six-feedstock : Not on GitHub or PyPI
+conda-forge/pytz-feedstock : Not on GitHub or PyPI
+conda-forge/cdat-lite-feedstock : Not on GitHub or PyPI
+conda-forge/cfchecker-feedstock : Not on GitHub or PyPI
+conda-forge/openssl-feedstock : Not on GitHub or PyPI
+pybind11 : No releases found on GitHub.
+conda-forge/freetype-feedstock : Not on GitHub or PyPI
+capnproto : Could not get package name from source.fn key.
+conda-forge/sqlite-feedstock : Not on GitHub or PyPI
+conda-forge/cunit-feedstock : Not on GitHub or PyPI
+conda-forge/pynfft-feedstock : Not on GitHub or PyPI
+conda-forge/glibmm-feedstock : Not on GitHub or PyPI
+conda-forge/thrift-cpp-feedstock : Could not parse meta.yaml
+conda-forge/libxmlpp-feedstock : Not on GitHub or PyPI
+conda-forge/glueviz-feedstock : Not on GitHub or PyPI
+conda-forge/nilearn-feedstock : Not on GitHub or PyPI
+conda-forge/supervisor-feedstock : Not on GitHub or PyPI
+conda-forge/glue-vispy-viewers-feedstock : Not on GitHub or PyPI
+conda-forge/lua-feedstock : Not on GitHub or PyPI
+conda-forge/pycapnp-feedstock : Not on GitHub or PyPI
+conda-forge/qtconsole-feedstock : Not on GitHub or PyPI
+conda-forge/coincbc-feedstock : Not on GitHub or PyPI
+conda-forge/readline-feedstock : Not on GitHub or PyPI
+doct : No releases found on GitHub.
+conda-forge/distributed-feedstock : Not on GitHub or PyPI
+conda-forge/dask-feedstock : No source.url key found.
+conda-forge/glymur-feedstock : Not on GitHub or PyPI
+conda-forge/sunpy-feedstock : Not on GitHub or PyPI
+conda-forge/wcsaxes-feedstock : Not on GitHub or PyPI
+conda-forge/s3fs-feedstock : Not on GitHub or PyPI
+conda-forge/tbb-feedstock : Could not parse meta.yaml
+conda-forge/fasteners-feedstock : Not on GitHub or PyPI
+conda-forge/monotonic-feedstock : Not on GitHub or PyPI
+conda-forge/zarr-feedstock : Not on GitHub or PyPI
+conda-forge/toolchain-feedstock : No source.url key found.
+conda-forge/conda-forge-build-setup-feedstock : No source.url key found.
+conda-forge/tk-feedstock : Could not parse meta.yaml
+conda-forge/arrow-feedstock : Not on GitHub or PyPI
+conda-forge/binaryornot-feedstock : Not on GitHub or PyPI
+conda-forge/cookiecutter-feedstock : Not on GitHub or PyPI
+conda-forge/poyo-feedstock : Not on GitHub or PyPI
+conda-forge/whichcraft-feedstock : Not on GitHub or PyPI
+conda-forge/lapack-feedstock : Not on GitHub or PyPI
+conda-forge/muparser-feedstock : Could not parse meta.yaml
+libradolan : Could not find repo on GitHub.
+conda-forge/nlopt-feedstock : Not on GitHub or PyPI
+conda-forge/blas-feedstock : Could not parse meta.yaml
+conda-forge/curl-feedstock : Not on GitHub or PyPI
+conda-forge/libgsasl-feedstock : Not on GitHub or PyPI
+conda-forge/libntlm-feedstock : Not on GitHub or PyPI
+conda-forge/pvlib-python-feedstock : Not on GitHub or PyPI
+conda-forge/python-feedstock : Not on GitHub or PyPI
+numpy : No source.fn key found.
+conda-forge/uwsgi-feedstock : Not on GitHub or PyPI
+scipy : No source.fn key found.
+conda-forge/libhdfs3-feedstock : No source.url key found.
+conda-forge/dec2-feedstock : Not on GitHub or PyPI
+conda-forge/emcee-feedstock : Not on GitHub or PyPI
+lmfit : Could not find repo on GitHub.
+conda-forge/scikit-image-feedstock : Not on GitHub or PyPI
+scikit-learn : No source.fn key found.
+conda-forge/python-spams-feedstock : Not on GitHub or PyPI
+conda-forge/cvxopt-feedstock : Not on GitHub or PyPI
+libnetcdf : No source.fn key found.
+hmat-oss : No releases found on GitHub.
+conda-forge/freeglut-feedstock : Could not parse meta.yaml
+conda-forge/pyro4-feedstock : Not on GitHub or PyPI
+libgd : No source.fn key found.
+event-model : Could not get package name from source.fn key.
+conda-forge/args-feedstock : Not on GitHub or PyPI
+conda-forge/clint-feedstock : Not on GitHub or PyPI
+conda-forge/pkginfo-feedstock : Not on GitHub or PyPI
+conda-forge/pytools-feedstock : Not on GitHub or PyPI
+conda-forge/keyring-feedstock : Not on GitHub or PyPI
+conda-forge/line_profiler-feedstock : Not on GitHub or PyPI
+conda-forge/memory_profiler-feedstock : Not on GitHub or PyPI
+openturns : Could not get package name from source.fn key.
+conda-forge/ipycache-feedstock : Could not parse meta.yaml
+effect : Could not get package name from source.fn key.
+slicerator : Could not get package name from source.fn key.
+historydict : Could not get package name from source.fn key.
+conda-forge/xraylib-feedstock : Not on GitHub or PyPI
+conda-forge/pyomo.extras-feedstock : No source.url key found.
+m2crypto : Could not get package name from source.fn key.
+conda-forge/suitesparse-feedstock : Not on GitHub or PyPI
+pycosat : No releases found on GitHub.
+conda-forge/requests-feedstock : Not on GitHub or PyPI
+conda-forge/yaml-feedstock : Could not parse meta.yaml
+conda-forge/pyyaml-feedstock : Not on GitHub or PyPI
+nbpresent : No releases found on GitHub.
+conda-forge/healpy-feedstock : Not on GitHub or PyPI
+conda-forge/toolz-feedstock : Not on GitHub or PyPI
+conda-forge/cytoolz-feedstock : Not on GitHub or PyPI
+conda-forge/vega-feedstock : Not on GitHub or PyPI
+conda-forge/tqdm-feedstock : Not on GitHub or PyPI
+conda-forge/python-neo-feedstock : Not on GitHub or PyPI
+conda-forge/sip-feedstock : Not on GitHub or PyPI
+conda-forge/thinkx-feedstock : Not on GitHub or PyPI
+conda-forge/pytmatrix-feedstock : Not on GitHub or PyPI
+nb_anacondacloud : No releases found on GitHub.
+conda-forge/tika-feedstock : Not on GitHub or PyPI
+conda-forge/apache-libcloud-feedstock : Not on GitHub or PyPI
+conda-forge/salt-feedstock : Not on GitHub or PyPI
+conda-forge/dill-feedstock : Not on GitHub or PyPI
+conda-forge/y_serial-feedstock : Not on GitHub or PyPI
+conda-forge/locket-feedstock : Not on GitHub or PyPI
+conda-forge/partd-feedstock : Not on GitHub or PyPI
+conda-forge/pykalman-feedstock : Not on GitHub or PyPI
+conda-forge/statsd-feedstock : Not on GitHub or PyPI
+conda-forge/pyparsing-feedstock : Not on GitHub or PyPI
+krb5 : No releases found on GitHub.
+conda-forge/python-eccodes-feedstock : Not on GitHub or PyPI
+conda-forge/deap-feedstock : Not on GitHub or PyPI
+conda-forge/hdfs3-feedstock : Not on GitHub or PyPI
+conda-forge/pycodestyle-feedstock : Not on GitHub or PyPI
+conda-forge/matplotlib-venn-feedstock : Not on GitHub or PyPI
+conda-forge/pep8-feedstock : Not on GitHub or PyPI
+conda-forge/autopep8-feedstock : Not on GitHub or PyPI
+conda-forge/graphviz-feedstock : Not on GitHub or PyPI
+nb_conda_kernels : No releases found on GitHub.
+dcmstack : No releases found on GitHub.
+yapf : No releases found on GitHub.
+conda-forge/azure-feedstock : Not on GitHub or PyPI
+conda-forge/azure-common-feedstock : Not on GitHub or PyPI
+conda-forge/azure-mgmt-feedstock : Not on GitHub or PyPI
+conda-forge/azure-mgmt-common-feedstock : Not on GitHub or PyPI
+conda-forge/azure-mgmt-compute-feedstock : Not on GitHub or PyPI
+conda-forge/azure-mgmt-network-feedstock : Not on GitHub or PyPI
+conda-forge/azure-mgmt-nspkg-feedstock : Not on GitHub or PyPI
+conda-forge/azure-mgmt-resource-feedstock : Not on GitHub or PyPI
+conda-forge/azure-mgmt-storage-feedstock : Not on GitHub or PyPI
+conda-forge/azure-nspkg-feedstock : Not on GitHub or PyPI
+conda-forge/azure-servicebus-feedstock : Not on GitHub or PyPI
+conda-forge/azure-servicemanagement-legacy-feedstock : Not on GitHub or PyPI
+conda-forge/azure-storage-feedstock : Not on GitHub or PyPI
+conda-forge/cc-plugin-ncei-feedstock : Not on GitHub or PyPI
+conda-forge/texlive-core-feedstock : Not on GitHub or PyPI
+conda-forge/cherrypy-feedstock : Not on GitHub or PyPI
+conda-forge/brewer2mpl-feedstock : Not on GitHub or PyPI
+conda-forge/scikit-umfpack-feedstock : Not on GitHub or PyPI
+python-symengine : No source.fn key found.
+symengine : Could not get package name from source.fn key.
+conda-forge/ggplot-feedstock : Not on GitHub or PyPI
+scikit-sparse : No releases found on GitHub.
+conda-forge/pycrypto-feedstock : Not on GitHub or PyPI
+conda-forge/phonenumbers-feedstock : Not on GitHub or PyPI
+conda-forge/geoalchemy2-feedstock : Not on GitHub or PyPI
+numpy-indexed : Could not get package name from source.fn key.
+conda-forge/mutagen-feedstock : Not on GitHub or PyPI
+conda-forge/django-rest-hooks-feedstock : Not on GitHub or PyPI
+conda-forge/packaging-feedstock : Not on GitHub or PyPI
+conda-forge/vs2015_runtime-feedstock : No source.url key found.
+conda-forge/findspark-feedstock : Not on GitHub or PyPI
+mongoquery : Could not get package name from source.fn key.
+conda-forge/tinydb-feedstock : Not on GitHub or PyPI
+pyopcode : Could not get package name from source.fn key.
+conda-forge/libmemcached-feedstock : Not on GitHub or PyPI
+conda-forge/slacker-feedstock : Not on GitHub or PyPI
+conda-forge/jsoncpp-feedstock : Could not parse meta.yaml
+scp : Could not find repo on GitHub.
+conda-forge/ecmwf-api-client-feedstock : Not on GitHub or PyPI
+ffx : Could not get package name from source.fn key.
+conda-forge/clusterpy-feedstock : Not on GitHub or PyPI
+conda-forge/speaklater-feedstock : Not on GitHub or PyPI
+conda-forge/happybase-feedstock : Not on GitHub or PyPI
+conda-forge/pyaml-feedstock : Not on GitHub or PyPI
+conda-forge/u3d-feedstock : Could not parse meta.yaml
+conda-forge/edffile-feedstock : No source.url key found.
+conda-forge/olefile-feedstock : Not on GitHub or PyPI
+conda-forge/spefile-feedstock : No source.url key found.
+conda-forge/selenium-feedstock : Not on GitHub or PyPI
+conda-forge/flask-sqlalchemy-feedstock : Not on GitHub or PyPI
+conda-forge/pypdf2-feedstock : Not on GitHub or PyPI
+conda-forge/urllib3-feedstock : Not on GitHub or PyPI
+conda-forge/vtk-feedstock : Could not parse meta.yaml
+conda-forge/backports.functools_lru_cache-feedstock : Not on GitHub or PyPI
+conda-forge/ws4py-feedstock : Not on GitHub or PyPI
+conda-forge/statsmodels-feedstock : Not on GitHub or PyPI
+conda-forge/prettytable-feedstock : Not on GitHub or PyPI
+conda-forge/requestsexceptions-feedstock : Not on GitHub or PyPI
+conda-forge/positional-feedstock : Not on GitHub or PyPI
+conda-forge/stevedore-feedstock : Not on GitHub or PyPI
+humanize : No releases found on GitHub.
+conda-forge/elasticsearch-feedstock : Not on GitHub or PyPI
+conda-forge/paste-feedstock : Not on GitHub or PyPI
+conda-forge/flake8-feedstock : Not on GitHub or PyPI
+conda-forge/mccabe-feedstock : Not on GitHub or PyPI
+conda-forge/pyflakes-feedstock : Not on GitHub or PyPI
+conda-forge/elasticsearch-dsl-feedstock : Not on GitHub or PyPI
+conda-forge/python-mimeparse-feedstock : Not on GitHub or PyPI
+conda-forge/keystoneauth1-feedstock : Not on GitHub or PyPI
+conda-forge/rfc3986-feedstock : Not on GitHub or PyPI
+conda-forge/netifaces-feedstock : Not on GitHub or PyPI
+conda-forge/cmd2-feedstock : Not on GitHub or PyPI
+conda-forge/debtcollector-feedstock : Not on GitHub or PyPI
+conda-forge/jsonpointer-feedstock : Not on GitHub or PyPI
+conda-forge/nosexcover-feedstock : Not on GitHub or PyPI
+conda-forge/jupyterlab-feedstock : Not on GitHub or PyPI
+conda-forge/pthreads-win32-feedstock : Not on GitHub or PyPI
+sphinx-bootstrap-theme : Could not get package name from source.fn key.
+conda-forge/tzlocal-feedstock : Not on GitHub or PyPI
+conda-forge/avro-feedstock : Not on GitHub or PyPI
+conda-forge/backports_abc-feedstock : Not on GitHub or PyPI
+clyent : No releases found on GitHub.
+conda-forge/cyavro-feedstock : No source.url key found.
+conda-forge/extras-feedstock : Not on GitHub or PyPI
+fabio : Could not get package name from source.fn key.
+conda-forge/filelock-feedstock : Not on GitHub or PyPI
+conda-forge/jsonpatch-feedstock : Not on GitHub or PyPI
+conda-forge/os-client-config-feedstock : Not on GitHub or PyPI
+conda-forge/pims-feedstock : Not on GitHub or PyPI
+pymongo : Could not find repo on GitHub.
+pypolyagamma : No releases found on GitHub.
+conda-forge/python-avro-feedstock : Not on GitHub or PyPI
+conda-forge/python-snappy-feedstock : Not on GitHub or PyPI
+redis : Could not find repo on GitHub.
+conda-forge/singledispatch-feedstock : Not on GitHub or PyPI
+conda-forge/peewee-feedstock : Not on GitHub or PyPI
+conda-forge/openstacksdk-feedstock : Not on GitHub or PyPI
+libdap4 : No source.fn key found.
+conda-forge/json-rpc-feedstock : Not on GitHub or PyPI
+conda-forge/isort-feedstock : Not on GitHub or PyPI
+conda-forge/pydocstyle-feedstock : Not on GitHub or PyPI
+conda-forge/gmpy2-feedstock : Not on GitHub or PyPI
+conda-forge/python-editor-feedstock : Not on GitHub or PyPI
+conda-forge/netaddr-feedstock : Not on GitHub or PyPI
+conda-forge/atom-feedstock : Not on GitHub or PyPI
+kiwisolver : Could not find repo on GitHub.
+conda-forge/funcsigs-feedstock : Not on GitHub or PyPI
+conda-forge/jupyter_nbextensions_configurator-feedstock : Not on GitHub or PyPI
+conda-forge/warlock-feedstock : Not on GitHub or PyPI
+conda-forge/jupyter_contrib_core-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-feedstock : Not on GitHub or PyPI
+conda-forge/pep257-feedstock : Not on GitHub or PyPI
+conda-forge/xerces-c-feedstock : Not on GitHub or PyPI
+conda-forge/sklearn-contrib-lightning-feedstock : Not on GitHub or PyPI
+conda-forge/alembic-feedstock : Not on GitHub or PyPI
+conda-forge/flask-cache-feedstock : Not on GitHub or PyPI
+conda-forge/chartkick-feedstock : Not on GitHub or PyPI
+conda-forge/gunicorn-feedstock : Not on GitHub or PyPI
+rq : No releases found on GitHub.
+conda-forge/flask-babel-feedstock : Not on GitHub or PyPI
+conda-forge/croniter-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-xdist-feedstock : Not on GitHub or PyPI
+conda-forge/flask-wtf-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-mock-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-qt-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-faulthandler-feedstock : Not on GitHub or PyPI
+conda-forge/flask-babelex-feedstock : Not on GitHub or PyPI
+conda-forge/flask-bcrypt-feedstock : Not on GitHub or PyPI
+SRTM.py : No releases found on GitHub.
+conda-forge/mako-feedstock : Not on GitHub or PyPI
+conda-forge/s3transfer-feedstock : Not on GitHub or PyPI
+conda-forge/jmespath-feedstock : Not on GitHub or PyPI
+conda-forge/qwt-feedstock : Could not parse meta.yaml
+conda-forge/qwtpolar-feedstock : Not on GitHub or PyPI
+conda-forge/reproject-feedstock : Not on GitHub or PyPI
+conda-forge/ipython_genutils-feedstock : Not on GitHub or PyPI
+conda-forge/docutils-feedstock : Not on GitHub or PyPI
+conda-forge/botocore-feedstock : Not on GitHub or PyPI
+conda-forge/postgresql-feedstock : Not on GitHub or PyPI
+conda-forge/alabaster-feedstock : Not on GitHub or PyPI
+conda-forge/win_unicode_console-feedstock : Not on GitHub or PyPI
+conda-forge/bob.ip.flandmark-feedstock : Not on GitHub or PyPI
+conda-forge/sortedcontainers-feedstock : Not on GitHub or PyPI
+conda-forge/python-levenshtein-feedstock : Not on GitHub or PyPI
+conda-forge/tlslite-feedstock : Not on GitHub or PyPI
+conda-forge/jansson-feedstock : Not on GitHub or PyPI
+conda-forge/snakefood-feedstock : Not on GitHub or PyPI
+conda-forge/oauthlib-feedstock : Not on GitHub or PyPI
+conda-forge/future-feedstock : Not on GitHub or PyPI
+conda-forge/rsa-feedstock : Not on GitHub or PyPI
+conda-forge/cythongsl-feedstock : Not on GitHub or PyPI
+conda-forge/flask-login-feedstock : Not on GitHub or PyPI
+conda-forge/websocket-client-feedstock : Not on GitHub or PyPI
+conda-forge/filechunkio-feedstock : Not on GitHub or PyPI
+conda-forge/sphinx-argparse-feedstock : Not on GitHub or PyPI
+conda-forge/pydruid-feedstock : Not on GitHub or PyPI
+conda-forge/setuptools-git-feedstock : Not on GitHub or PyPI
+conda-forge/awscli-feedstock : Not on GitHub or PyPI
+conda-forge/oauth2client-feedstock : Not on GitHub or PyPI
+conda-forge/requests-oauthlib-feedstock : Not on GitHub or PyPI
+conda-forge/setuptools-feedstock : Not on GitHub or PyPI
+conda-forge/cliff-feedstock : Not on GitHub or PyPI
+conda-forge/altair-feedstock : Not on GitHub or PyPI
+conda-forge/tangelo-feedstock : Not on GitHub or PyPI
+conda-forge/click-feedstock : Not on GitHub or PyPI
+conda-forge/pyjwt-feedstock : Not on GitHub or PyPI
+conda-forge/uritemplate-feedstock : Not on GitHub or PyPI
+conda-forge/fuzzywuzzy-feedstock : Not on GitHub or PyPI
+conda-forge/inflection-feedstock : Not on GitHub or PyPI
+conda-forge/flask-oauthlib-feedstock : Not on GitHub or PyPI
+conda-forge/mpich-feedstock : Not on GitHub or PyPI
+conda-forge/spylon-feedstock : Not on GitHub or PyPI
+conda-forge/swig-feedstock : Not on GitHub or PyPI
+conda-forge/libgfortran-feedstock : No source.url key found.
+conda-forge/pytrie-feedstock : Not on GitHub or PyPI
+conda-forge/subprocess32-feedstock : Not on GitHub or PyPI
+ferret_datasets : Could not find repo on GitHub.
+conda-forge/pydy-feedstock : Not on GitHub or PyPI
+conda-forge/fake-factory-feedstock : Not on GitHub or PyPI
+conda-forge/inkscape-feedstock : Not on GitHub or PyPI
+conda-forge/jsmin-feedstock : Not on GitHub or PyPI
+conda-forge/htmlmin-feedstock : Not on GitHub or PyPI
+conda-forge/hachoir-core-feedstock : Not on GitHub or PyPI
+conda-forge/hyperspy-feedstock : Not on GitHub or PyPI
+conda-forge/pyglet-feedstock : Not on GitHub or PyPI
+conda-forge/pysal-feedstock : Not on GitHub or PyPI
+conda-forge/mss-feedstock : Not on GitHub or PyPI
+conda-forge/pylibmc-feedstock : Not on GitHub or PyPI
+conda-forge/wincertstore-feedstock : Not on GitHub or PyPI
+conda-forge/resampy-feedstock : Not on GitHub or PyPI
+conda-forge/pip-feedstock : Not on GitHub or PyPI
+conda-forge/apscheduler-feedstock : Not on GitHub or PyPI
+conda-forge/audioread-feedstock : Not on GitHub or PyPI
+nipype : Could not get package name from source.fn key.
+conda-forge/prov-feedstock : Not on GitHub or PyPI
+conda-forge/pydotplus-feedstock : Not on GitHub or PyPI
+conda-forge/xvfbwrapper-feedstock : Not on GitHub or PyPI
+conda-forge/conda-env-feedstock : No source.url key found.
+conda-forge/hachoir-parser-feedstock : Not on GitHub or PyPI
+conda-forge/wheel-feedstock : Not on GitHub or PyPI
+conda-forge/pango-feedstock : Not on GitHub or PyPI
+conda-forge/qt-feedstock : Not on GitHub or PyPI
+conda-forge/channelarchiver-feedstock : Not on GitHub or PyPI
+conda-forge/rasterstats-feedstock : Not on GitHub or PyPI
+conda-forge/librosa-feedstock : Not on GitHub or PyPI
+conda-forge/gperf-feedstock : Not on GitHub or PyPI
+iverilog : Could not get package name from source.fn key.
+conda-forge/sed-feedstock : Not on GitHub or PyPI
+conda-forge/zwatershed-feedstock : Not on GitHub or PyPI
+conda-forge/metafone-feedstock : Not on GitHub or PyPI
+conda-forge/probableparsing-feedstock : Not on GitHub or PyPI
+conda-forge/python-crfsuite-feedstock : Not on GitHub or PyPI
+conda-forge/usaddress-feedstock : Not on GitHub or PyPI
+conda-forge/hachoir-metadata-feedstock : Not on GitHub or PyPI
+conda-forge/cairomm-feedstock : Not on GitHub or PyPI
+conda-forge/iso8601-feedstock : Not on GitHub or PyPI
+conda-forge/hiveplot-feedstock : Not on GitHub or PyPI
+conda-forge/prefsync-feedstock : Not on GitHub or PyPI
+conda-forge/catimg-feedstock : Not on GitHub or PyPI
+conda-forge/imgurpython-feedstock : Not on GitHub or PyPI
+conda-forge/iterm2-tools-feedstock : Not on GitHub or PyPI
+conda-forge/diskcache-feedstock : Not on GitHub or PyPI
+ipdb : No releases found on GitHub.
+asyncssh : No releases found on GitHub.
+addict : Could not get package name from source.fn key.
+structlog : No releases found on GitHub.
+conda-forge/voluptuous-feedstock : Not on GitHub or PyPI
+conda-forge/capturer-feedstock : Not on GitHub or PyPI
+conda-forge/coloredlogs-feedstock : Not on GitHub or PyPI
+conda-forge/humanfriendly-feedstock : Not on GitHub or PyPI
+conda-forge/verboselogs-feedstock : Not on GitHub or PyPI
+conda-forge/conda-workon-feedstock : Not on GitHub or PyPI
+conda-forge/theano-feedstock : Not on GitHub or PyPI
+conda-forge/girder-client-feedstock : Not on GitHub or PyPI
+conda-forge/hdbscan-feedstock : Not on GitHub or PyPI
+conda-forge/ua-parser-feedstock : Not on GitHub or PyPI
+conda-forge/google-api-python-client-feedstock : Not on GitHub or PyPI
+conda-forge/girder-feedstock : Not on GitHub or PyPI
+jsanimation : Could not get package name from source.fn key.
+anaconda-verify : No releases found on GitHub.
+conda-forge/pydoe-feedstock : Not on GitHub or PyPI
+anypytools : Could not get package name from source.fn key.
+waf : No releases found on GitHub.
+conda-forge/pyinstaller-feedstock : Not on GitHub or PyPI
+conda-forge/asciitree-feedstock : Not on GitHub or PyPI
+conda-forge/scandir-feedstock : Not on GitHub or PyPI
+lazyasd : No releases found on GitHub.
+conda-forge/hypothesis-feedstock : Not on GitHub or PyPI
+joblib : No releases found on GitHub.
+conda-forge/branca-feedstock : Not on GitHub or PyPI
+conda-forge/scikit-bio-feedstock : Not on GitHub or PyPI
+conda-forge/pyfive-feedstock : Not on GitHub or PyPI
+f90wrap : No releases found on GitHub.
+libconda : No releases found on GitHub.
+conda-forge/ruamel_yaml-feedstock : Not on GitHub or PyPI
+conda-forge/mtspec-feedstock : Not on GitHub or PyPI
+conda-forge/python-gnupg-feedstock : Not on GitHub or PyPI
+conda-forge/newrelic-feedstock : Not on GitHub or PyPI
+conda-forge/category_encoders-feedstock : Not on GitHub or PyPI
+conda-forge/circleclient-feedstock : Not on GitHub or PyPI
+conda-forge/pykwalify-feedstock : Not on GitHub or PyPI
+slda : No releases found on GitHub.
+conda-forge/snakebite-feedstock : Not on GitHub or PyPI
+conda-forge/pudb-feedstock : Not on GitHub or PyPI
+conda-forge/emperor-feedstock : Not on GitHub or PyPI
+nb_conda : No releases found on GitHub.
+conda-forge/qtpy-feedstock : Not on GitHub or PyPI
+conda-forge/circleci-helpers-feedstock : Not on GitHub or PyPI
+conda-forge/mercurial-feedstock : Not on GitHub or PyPI
+conda-forge/libpq-feedstock : No source.url key found.
+conda-forge/psycopg2-feedstock : Not on GitHub or PyPI
+conda-forge/pyhocon-feedstock : Not on GitHub or PyPI
+stack : Could not get package name from source.fn key.
+pyvisa : Could not get package name from source.fn key.
+conda-forge/pv-feedstock : Not on GitHub or PyPI
+conda-forge/plotly-feedstock : Not on GitHub or PyPI
+conda-forge/bc-feedstock : Not on GitHub or PyPI
+pymeasure : Could not get package name from source.fn key.
+conda-forge/sphinx-feedstock : Not on GitHub or PyPI
+conda-forge/jupyter_contrib_nbextensions-feedstock : Not on GitHub or PyPI
+conda-forge/sphinx_rtd_theme-feedstock : Could not parse meta.yaml
+conda-forge/port-for-feedstock : Not on GitHub or PyPI
+conda-forge/importlib-feedstock : Not on GitHub or PyPI
+conda-forge/ordereddict-feedstock : Not on GitHub or PyPI
+cgal : No source.fn key found.
+conda-forge/obspy-feedstock : Not on GitHub or PyPI
+conda-forge/path.py-feedstock : Not on GitHub or PyPI
+conda-forge/pbr-feedstock : Not on GitHub or PyPI
+conda-forge/nsis-feedstock : Not on GitHub or PyPI
+constructor : No releases found on GitHub.
+conda-forge/statuspage-feedstock : Not on GitHub or PyPI
+conda-forge/pbzip2-feedstock : Not on GitHub or PyPI
+conda-forge/coverage-feedstock : Not on GitHub or PyPI
+conda-forge/autograd-feedstock : Not on GitHub or PyPI
+conda-forge/pycalphad-feedstock : Not on GitHub or PyPI
+conda-forge/sphinxcontrib-autoprogram-feedstock : Not on GitHub or PyPI
+conda-forge/exec-wrappers-feedstock : Not on GitHub or PyPI
+conda-forge/doctr-feedstock : Not on GitHub or PyPI
+conda-forge/depfinder-feedstock : Not on GitHub or PyPI
+stdlib_list : Could not find repo on GitHub.
+conda-forge/sound_field_analysis-feedstock : Not on GitHub or PyPI
+otsvm : Could not get package name from source.fn key.
+conda-forge/snowballstemmer-feedstock : Not on GitHub or PyPI
+scikit-beam : Could not get package name from source.fn key.
+conda-forge/testfixtures-feedstock : Not on GitHub or PyPI
+wordcloud : Could not find repo on GitHub.
+super_state_machine : No releases found on GitHub.
+conda-forge/enum34-feedstock : Not on GitHub or PyPI
+otrobopt : Could not get package name from source.fn key.
+conda-forge/ipaddress-feedstock : Not on GitHub or PyPI
+conda-forge/dodgy-feedstock : Not on GitHub or PyPI
+conda-forge/pyroma-feedstock : Not on GitHub or PyPI
+conda-forge/setoptconf-feedstock : Not on GitHub or PyPI
+conda-forge/vulture-feedstock : Not on GitHub or PyPI
+conda-forge/wrapt-feedstock : Not on GitHub or PyPI
+conda-forge/pies2overrides-feedstock : Not on GitHub or PyPI
+xray-vision : Could not get package name from source.fn key.
+conda-forge/lazy-object-proxy-feedstock : Not on GitHub or PyPI
+conda-forge/pies-feedstock : Not on GitHub or PyPI
+conda-forge/legit-feedstock : No source.url key found.
+conda-forge/seaborn-feedstock : Not on GitHub or PyPI
+QuantEcon.py : No releases found on GitHub.
+conda-forge/patsy-feedstock : Not on GitHub or PyPI
+conda-forge/numexpr-feedstock : Not on GitHub or PyPI
+conda-forge/attrdict-feedstock : Not on GitHub or PyPI
+conda-forge/imagesize-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-sftpserver-feedstock : Not on GitHub or PyPI
+conda-forge/python-docx-feedstock : Not on GitHub or PyPI
+conda-forge/python-pptx-feedstock : Not on GitHub or PyPI
+conda-forge/pdfminer-feedstock : Not on GitHub or PyPI
+conda-forge/harfbuzz-feedstock : Not on GitHub or PyPI
+conda-forge/slackclient-feedstock : Not on GitHub or PyPI
+conda-forge/speechrecognition-feedstock : Not on GitHub or PyPI
+conda-forge/qds-sdk-feedstock : Not on GitHub or PyPI
+conda-forge/user-agents-feedstock : Not on GitHub or PyPI
+cssselect : No releases found on GitHub.
+conda-forge/cssutils-feedstock : Not on GitHub or PyPI
+conda-forge/premailer-feedstock : Not on GitHub or PyPI
+pytables : No source.fn key found.
+conda-forge/aniso8601-feedstock : Not on GitHub or PyPI
+conda-forge/linecache2-feedstock : Not on GitHub or PyPI
+conda-forge/python-marisa-trie-feedstock : Not on GitHub or PyPI
+conda-forge/py4j-feedstock : Not on GitHub or PyPI
+conda-forge/vertica-python-feedstock : Not on GitHub or PyPI
+conda-forge/fastavro-feedstock : Not on GitHub or PyPI
+conda-forge/psiturk-feedstock : Not on GitHub or PyPI
+conda-forge/wtforms-appengine-feedstock : Not on GitHub or PyPI
+conda-forge/requests-futures-feedstock : Not on GitHub or PyPI
+conda-forge/pysmbclient-feedstock : Not on GitHub or PyPI
+otfftw : Could not get package name from source.fn key.
+otmorris : Could not get package name from source.fn key.
+otpmml : Could not get package name from source.fn key.
+conda-forge/versioneer-feedstock : Not on GitHub or PyPI
+conda-forge/astroid-feedstock : Not on GitHub or PyPI
+conda-forge/logilab-common-feedstock : Not on GitHub or PyPI
+conda-forge/hive-thrift-py-feedstock : Not on GitHub or PyPI
+conda-forge/pylint-feedstock : Not on GitHub or PyPI
+conda-forge/eventlet-feedstock : Not on GitHub or PyPI
+conda-forge/frosted-feedstock : Not on GitHub or PyPI
+conda-forge/pyasn1-feedstock : Not on GitHub or PyPI
+conda-forge/requirements-detector-feedstock : Not on GitHub or PyPI
+conda-forge/flo-feedstock : Not on GitHub or PyPI
+conda-forge/unidecode-feedstock : Not on GitHub or PyPI
+conda-forge/pysocks-feedstock : Not on GitHub or PyPI
+conda-forge/argparse-feedstock : Not on GitHub or PyPI
+conda-forge/pylint-plugin-utils-feedstock : Not on GitHub or PyPI
+conda-forge/xmltodict-feedstock : Not on GitHub or PyPI
+conda-forge/flask-httpauth-feedstock : Not on GitHub or PyPI
+conda-forge/mechanize-feedstock : Not on GitHub or PyPI
+conda-forge/jupyter_dashboards-feedstock : Not on GitHub or PyPI
+conda-forge/cerberus-feedstock : Not on GitHub or PyPI
+conda-forge/pathtools-feedstock : Not on GitHub or PyPI
+conda-forge/argh-feedstock : Not on GitHub or PyPI
+conda-forge/openmesh-feedstock : Not on GitHub or PyPI
+conda-forge/exifread-feedstock : Not on GitHub or PyPI
+conda-forge/pycparser-feedstock : Not on GitHub or PyPI
+conda-forge/cryptography-vectors-feedstock : Not on GitHub or PyPI
+conda-forge/futures-feedstock : Not on GitHub or PyPI
+conda-forge/idna-feedstock : Not on GitHub or PyPI
+conda-forge/pylint-celery-feedstock : Not on GitHub or PyPI
+conda-forge/pylint-common-feedstock : Not on GitHub or PyPI
+conda-forge/textblob-feedstock : Not on GitHub or PyPI
+conda-forge/werkzeug-feedstock : Not on GitHub or PyPI
+conda-forge/inifile-feedstock : Not on GitHub or PyPI
+rvlib : No releases found on GitHub.
+conda-forge/itsdangerous-feedstock : Not on GitHub or PyPI
+conda-forge/twine-feedstock : Not on GitHub or PyPI
+conda-forge/ebooklib-feedstock : Not on GitHub or PyPI
+conda-forge/traceback2-feedstock : Not on GitHub or PyPI
+cyclus : Could not get package name from source.fn key.
+conda-forge/fatiando-feedstock : Not on GitHub or PyPI
+conda-forge/nltk-feedstock : Not on GitHub or PyPI
+conda-forge/flask-feedstock : Not on GitHub or PyPI
+conda-forge/pylint-flask-feedstock : Not on GitHub or PyPI
+conda-forge/pylint-django-feedstock : Not on GitHub or PyPI
+conda-forge/prospector-feedstock : Not on GitHub or PyPI
+conda-forge/traittypes-feedstock : Not on GitHub or PyPI
+conda-forge/pretend-feedstock : Not on GitHub or PyPI
+conda-forge/yarg-feedstock : Not on GitHub or PyPI
+conda-forge/django-nose-feedstock : Not on GitHub or PyPI
+conda-forge/instaseis-feedstock : Not on GitHub or PyPI
+conda-forge/dbus-feedstock : Not on GitHub or PyPI
+conda-forge/gstreamer-feedstock : Not on GitHub or PyPI
+conda-forge/xcb-proto-feedstock : Not on GitHub or PyPI
+conda-forge/pandas-profiling-feedstock : Not on GitHub or PyPI
+conda-forge/vobject-feedstock : Not on GitHub or PyPI
+conda-forge/configargparse-feedstock : Not on GitHub or PyPI
+conda-forge/flask-mail-feedstock : Not on GitHub or PyPI
+conda-forge/requests-cache-feedstock : Not on GitHub or PyPI
+conda-forge/pthread-stubs-feedstock : Not on GitHub or PyPI
+conda-forge/mongoengine-feedstock : Not on GitHub or PyPI
+conda-forge/cement-feedstock : Not on GitHub or PyPI
+cycamore : Could not get package name from source.fn key.
+conda-forge/fabric-feedstock : Not on GitHub or PyPI
+conda-forge/tldextract-feedstock : Not on GitHub or PyPI
+conda-forge/toro-feedstock : Not on GitHub or PyPI
+conda-forge/watchdog-feedstock : Not on GitHub or PyPI
+conda-forge/pdfminer.six-feedstock : Not on GitHub or PyPI
+conda-forge/ndg-httpsclient-feedstock : Not on GitHub or PyPI
+conda-forge/libxcb-feedstock : Not on GitHub or PyPI
+conda-forge/wtf-peewee-feedstock : Not on GitHub or PyPI
+conda-forge/flask-basicauth-feedstock : Not on GitHub or PyPI
+conda-forge/lxml-feedstock : Not on GitHub or PyPI
+conda-forge/libxslt-feedstock : Not on GitHub or PyPI
+conda-forge/cov-core-feedstock : Not on GitHub or PyPI
+conda-forge/pyasn1-modules-feedstock : Not on GitHub or PyPI
+conda-forge/wsgiref-feedstock : Not on GitHub or PyPI
+conda-forge/datreant-feedstock : No source.url key found.
+conda-forge/datreant.core-feedstock : Not on GitHub or PyPI
+conda-forge/backports.ssl-feedstock : Not on GitHub or PyPI
+conda-forge/cloudant-feedstock : Not on GitHub or PyPI
+conda-forge/flask-principal-feedstock : Not on GitHub or PyPI
+conda-forge/grequests-feedstock : Not on GitHub or PyPI
+conda-forge/sentinels-feedstock : Not on GitHub or PyPI
+conda-forge/doublemetaphone-feedstock : Not on GitHub or PyPI
+conda-forge/testtools-feedstock : Not on GitHub or PyPI
+blosc : No source.fn key found.
+conda-forge/bloscpack-feedstock : Not on GitHub or PyPI
+conda-forge/python-blosc-feedstock : Not on GitHub or PyPI
+conda-forge/mdtraj-feedstock : Not on GitHub or PyPI
+conda-forge/pyagrum-feedstock : Not on GitHub or PyPI
+conda-forge/libhwloc-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-cookies-feedstock : Not on GitHub or PyPI
+conda-forge/islpy-feedstock : Not on GitHub or PyPI
+conda-forge/mpi4py-feedstock : Not on GitHub or PyPI
+conda-forge/imapclient-feedstock : Not on GitHub or PyPI
+conda-forge/paramiko-feedstock : Not on GitHub or PyPI
+conda-forge/fabric3-feedstock : Not on GitHub or PyPI
+iris-grib : Could not get package name from source.fn key.
+conda-forge/fixtures-feedstock : Not on GitHub or PyPI
+conda-forge/hachoir-regex-feedstock : Not on GitHub or PyPI
+conda-forge/hachoir-urwid-feedstock : Not on GitHub or PyPI
+conda-forge/python-engineio-feedstock : Not on GitHub or PyPI
+conda-forge/hachoir-wx-feedstock : Not on GitHub or PyPI
+conda-forge/pyxley-feedstock : Not on GitHub or PyPI
+conda-forge/mrjob-feedstock : Not on GitHub or PyPI
+conda-forge/pathlib-feedstock : Not on GitHub or PyPI
+conda-forge/bcdoc-feedstock : Not on GitHub or PyPI
+conda-forge/metis-feedstock : Not on GitHub or PyPI
+conda-forge/ipython-autotime-feedstock : Not on GitHub or PyPI
+conda-forge/python-termstyle-feedstock : Not on GitHub or PyPI
+conda-forge/wakatime-feedstock : Not on GitHub or PyPI
+conda-forge/python-annoy-feedstock : Not on GitHub or PyPI
+conda-forge/pyinstrument-feedstock : Not on GitHub or PyPI
+bottle : No releases found on GitHub.
+conda-forge/openmpi-feedstock : Not on GitHub or PyPI
+conda-forge/pipreqs-feedstock : Not on GitHub or PyPI
+heapdict : No releases found on GitHub.
+conda-forge/uncommitted-feedstock : Not on GitHub or PyPI
+conda-forge/slugify-feedstock : Not on GitHub or PyPI
+conda-forge/update_checker-feedstock : Not on GitHub or PyPI
+conda-forge/sphinx-issues-feedstock : Not on GitHub or PyPI
+conda-forge/zict-feedstock : Not on GitHub or PyPI
+falcon : No releases found on GitHub.
+conda-forge/flask-seasurf-feedstock : Not on GitHub or PyPI
+conda-forge/flask-testing-feedstock : Not on GitHub or PyPI
+conda-forge/flask-restful-feedstock : Not on GitHub or PyPI
+conda-forge/mimerender-feedstock : Not on GitHub or PyPI
+conda-forge/flask-uploads-feedstock : Not on GitHub or PyPI
+conda-forge/flask-user-feedstock : Not on GitHub or PyPI
+pygmo : No source.fn key found.
+conda-forge/pybufr-ecmwf-feedstock : Not on GitHub or PyPI
+conda-forge/hachoir-subfile-feedstock : Not on GitHub or PyPI
+conda-forge/creoleparser-feedstock : Not on GitHub or PyPI
+conda-forge/zodburi-feedstock : Not on GitHub or PyPI
+conda-forge/python-couchdb-feedstock : Not on GitHub or PyPI
+conda-forge/flask-genshi-feedstock : Not on GitHub or PyPI
+conda-forge/flask-xml-rpc-feedstock : Not on GitHub or PyPI
+conda-forge/frozen-flask-feedstock : Not on GitHub or PyPI
+conda-forge/marshmallow-feedstock : Not on GitHub or PyPI
+conda-forge/python-highcharts-feedstock : Not on GitHub or PyPI
+conda-forge/python-socketio-feedstock : Not on GitHub or PyPI
+conda-forge/datreant.data-feedstock : Not on GitHub or PyPI
+conda-forge/lockfile-feedstock : Not on GitHub or PyPI
+conda-forge/sseclient-feedstock : Not on GitHub or PyPI
+conda-forge/gst-plugins-base-feedstock : Not on GitHub or PyPI
+conda-forge/sphinx-pypi-upload-feedstock : Not on GitHub or PyPI
+conda-forge/markdown2-feedstock : Not on GitHub or PyPI
+conda-forge/sh-feedstock : Not on GitHub or PyPI
+conda-forge/pyqt-feedstock : Not on GitHub or PyPI
+conda-forge/oslo.i18n-feedstock : Not on GitHub or PyPI
+dlib : No source.fn key found.
+conda-forge/multipledispatch-feedstock : Not on GitHub or PyPI
+qca : Could not get package name from source.fn key.
+conda-forge/flake8-quotes-feedstock : Not on GitHub or PyPI
+release : Could not find repo on GitHub.
+qjson : No releases found on GitHub.
+conda-forge/flask-moment-feedstock : Not on GitHub or PyPI
+conda-forge/webassets-feedstock : Not on GitHub or PyPI
+conda-forge/factory_boy-feedstock : Not on GitHub or PyPI
+conda-forge/pygeoip-feedstock : Not on GitHub or PyPI
+conda-forge/qscintilla2-feedstock : Not on GitHub or PyPI
+conda-forge/bidict-feedstock : Not on GitHub or PyPI
+conda-forge/flask-cors-feedstock : Not on GitHub or PyPI
+conda-forge/flask-restless-feedstock : Not on GitHub or PyPI
+conda-forge/flask-couchdb-feedstock : Not on GitHub or PyPI
+conda-forge/jellyfish-feedstock : Not on GitHub or PyPI
+conda-forge/parsedatetime-feedstock : Not on GitHub or PyPI
+conda-forge/sqlalchemy-utils-feedstock : Not on GitHub or PyPI
+conda-forge/python-openid-feedstock : Not on GitHub or PyPI
+conda-forge/visitor-feedstock : Not on GitHub or PyPI
+conda-forge/genson-feedstock : Not on GitHub or PyPI
+conda-forge/zodbpickle-feedstock : Not on GitHub or PyPI
+conda-forge/begins-feedstock : Not on GitHub or PyPI
+conda-forge/visvis-feedstock : Not on GitHub or PyPI
+conda-forge/qgis-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-cpp-feedstock : Not on GitHub or PyPI
+conda-forge/hyperion-feedstock : Not on GitHub or PyPI
+conda-forge/hyperion-fortran-feedstock : Not on GitHub or PyPI
+conda-forge/pygraphml-feedstock : Not on GitHub or PyPI
+htop : No releases found on GitHub.
+conda-forge/numcodecs-feedstock : Not on GitHub or PyPI
+conda-forge/jupyter_cms-feedstock : Not on GitHub or PyPI
+conda-forge/oslo.config-feedstock : Not on GitHub or PyPI
+conda-forge/splits-feedstock : Not on GitHub or PyPI
+conda-forge/dominate-feedstock : Not on GitHub or PyPI
+conda-forge/jupyter_kernel_gateway-feedstock : Not on GitHub or PyPI
+conda-forge/flask-socketio-feedstock : Not on GitHub or PyPI
+conda-forge/flask-creole-feedstock : Not on GitHub or PyPI
+conda-forge/flask-debugtoolbar-feedstock : Not on GitHub or PyPI
+conda-forge/inspyred-feedstock : Not on GitHub or PyPI
+conda-forge/python-slugify-feedstock : Not on GitHub or PyPI
+conda-forge/tpot-feedstock : Not on GitHub or PyPI
+conda-forge/viridis-feedstock : Not on GitHub or PyPI
+seqan-library : Could not find repo on GitHub.
+nbexamples : Could not get package name from source.fn key.
+conda-forge/pandas-highcharts-feedstock : Not on GitHub or PyPI
+conda-forge/defusedxml-feedstock : Not on GitHub or PyPI
+conda-forge/flask-script-feedstock : Not on GitHub or PyPI
+conda-forge/msg-extractor-feedstock : No source.url key found.
+conda-forge/oslo.utils-feedstock : Not on GitHub or PyPI
+conda-forge/us-feedstock : Not on GitHub or PyPI
+conda-forge/flask-flatpages-feedstock : Not on GitHub or PyPI
+conda-forge/versiontools-feedstock : Not on GitHub or PyPI
+conda-forge/msmtools-feedstock : Not on GitHub or PyPI
+conda-forge/sundials-feedstock : Not on GitHub or PyPI
+conda-forge/textract-feedstock : Not on GitHub or PyPI
+pkgconfig : No releases found on GitHub.
+conda-forge/emacs-feedstock : Not on GitHub or PyPI
+conda-forge/python3-openid-feedstock : Not on GitHub or PyPI
+conda-forge/gala-feedstock : Not on GitHub or PyPI
+conda-forge/pygrametl-feedstock : Not on GitHub or PyPI
+conda-forge/cheat-feedstock : Not on GitHub or PyPI
+openpiv : Could not find repo on GitHub.
+conda-forge/pandas-summary-feedstock : Not on GitHub or PyPI
+arpack : Could not find repo on GitHub.
+conda-forge/moab-feedstock : Not on GitHub or PyPI
+conda-forge/repeated_test-feedstock : Not on GitHub or PyPI
+conda-forge/unzip-feedstock : Not on GitHub or PyPI
+conda-forge/zip-feedstock : Not on GitHub or PyPI
+sshtunnel : Could not get package name from source.fn key.
+conda-forge/contextily-feedstock : Not on GitHub or PyPI
+conda-forge/mercantile-feedstock : Not on GitHub or PyPI
+conda-forge/conda-wrappers-feedstock : No source.url key found.
+conda-forge/petl-feedstock : Not on GitHub or PyPI
+conda-forge/scikit-allel-feedstock : Not on GitHub or PyPI
+conda-forge/autowrap-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-cache-feedstock : Not on GitHub or PyPI
+conda-forge/retrying-feedstock : Not on GitHub or PyPI
+conda-forge/tokyocabinet-feedstock : Not on GitHub or PyPI
+conda-forge/zc.lockfile-feedstock : Not on GitHub or PyPI
+conda-forge/progress_reporter-feedstock : Not on GitHub or PyPI
+conda-forge/periodictable-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-pep8-feedstock : Not on GitHub or PyPI
+conda-forge/asteval-feedstock : Not on GitHub or PyPI
+conda-forge/trackpy-feedstock : Not on GitHub or PyPI
+conda-forge/pprofile-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-flakes-feedstock : Not on GitHub or PyPI
+px4tools : No releases found on GitHub.
+conda-forge/metawrap-feedstock : Not on GitHub or PyPI
+conda-forge/av-feedstock : Not on GitHub or PyPI
+conda-forge/kenjutsu-feedstock : Not on GitHub or PyPI
+conda-forge/click-help-colors-feedstock : Not on GitHub or PyPI
+conda-forge/validictory-feedstock : Not on GitHub or PyPI
+conda-forge/census-feedstock : Not on GitHub or PyPI
+pyembree : Could not get package name from source.fn key.
+pyne : Could not get package name from source.fn key.
+pymc3 : No source.fn key found.
+conda-forge/commonmark-feedstock : Not on GitHub or PyPI
+conda-forge/ccache-feedstock : Not on GitHub or PyPI
+clcache : Could not get package name from source.fn key.
+conda-forge/fermipy-feedstock : Not on GitHub or PyPI
+conda-forge/llvmdev-feedstock : Could not parse meta.yaml
+conda-forge/warc-feedstock : Not on GitHub or PyPI
+conda-forge/warctools-feedstock : Not on GitHub or PyPI
+conda-forge/pymbolic-feedstock : Not on GitHub or PyPI
+conda-forge/kapteyn-feedstock : Not on GitHub or PyPI
+hpc05 : Could not get package name from source.fn key.
+arrow-cpp : Could not get package name from source.fn key.
+conda-forge/parquet-cpp-feedstock : Could not parse meta.yaml
+conda-forge/python-utils-feedstock : Not on GitHub or PyPI
+conda-forge/vs2008_express_vc_python_patch-feedstock : No source.url key found.
+conda-forge/breathe-feedstock : Not on GitHub or PyPI
+conda-forge/cachetools-feedstock : Not on GitHub or PyPI
+conda-forge/gdb-feedstock : Not on GitHub or PyPI
+conda-forge/genpy-feedstock : Not on GitHub or PyPI
+conda-forge/cgen-feedstock : Not on GitHub or PyPI
+conda-forge/dask-funk-feedstock : Not on GitHub or PyPI
+conda-forge/npctypes-feedstock : Not on GitHub or PyPI
+conda-forge/ocl-icd-feedstock : Not on GitHub or PyPI
+conda-forge/aplus-feedstock : Not on GitHub or PyPI
+conda-forge/progressbar2-feedstock : Not on GitHub or PyPI
+prometheus_client : Could not find repo on GitHub.
+conda-forge/forestci-feedstock : Not on GitHub or PyPI
+conda-forge/sqlparse-feedstock : Not on GitHub or PyPI
+conda-forge/spm1d-feedstock : Not on GitHub or PyPI
+chemfiles.py : No releases found on GitHub.
+conda-forge/libflint-feedstock : Not on GitHub or PyPI
+conda-forge/pyopencl-feedstock : Could not parse meta.yaml
+conda-forge/pyvisfile-feedstock : Not on GitHub or PyPI
+conda-forge/elfutils-feedstock : Not on GitHub or PyPI
+conda-forge/modepy-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-localserver-feedstock : Not on GitHub or PyPI
+conda-forge/ftputil-feedstock : Not on GitHub or PyPI
+conda-forge/smart_open-feedstock : Not on GitHub or PyPI
+conda-forge/esgf-pyclient-feedstock : Not on GitHub or PyPI
+conda-forge/myproxyclient-feedstock : Not on GitHub or PyPI
+conda-forge/shutilwhich-feedstock : Not on GitHub or PyPI
+conda-forge/pyopenssl-feedstock : Not on GitHub or PyPI
+conda-forge/scotch-feedstock : Not on GitHub or PyPI
+arb : Could not get package name from source.fn key.
+conda-forge/vaex-feedstock : No source.url key found.
+release : Could not find repo on GitHub.
+conda-forge/thermotools-feedstock : Not on GitHub or PyPI
+conda-forge/chemfiles-feedstock : No source.url key found.
+conda-forge/libgit2-feedstock : Could not parse meta.yaml
+conda-forge/libssh2-feedstock : Not on GitHub or PyPI
+conda-forge/zconfig-feedstock : Not on GitHub or PyPI
+conda-forge/flask-migrate-feedstock : Not on GitHub or PyPI
+conda-forge/podaacpy-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-catchlog-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-timeout-feedstock : Not on GitHub or PyPI
+conda-forge/scrapy-feedstock : Not on GitHub or PyPI
+conda-forge/cogapp-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-datadir-feedstock : Not on GitHub or PyPI
+cpulimit : No releases found on GitHub.
+conda-forge/flask-admin-feedstock : Not on GitHub or PyPI
+pyarrow : Could not get package name from source.fn key.
+conda-forge/watermark-feedstock : Not on GitHub or PyPI
+conda-forge/xnumpy-feedstock : Not on GitHub or PyPI
+conda-forge/lazy-feedstock : Not on GitHub or PyPI
+conda-forge/nbstripout-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-json-feedstock : Not on GitHub or PyPI
+conda-forge/bhmm-feedstock : Not on GitHub or PyPI
+hug : No releases found on GitHub.
+conda-forge/pyemma-feedstock : Not on GitHub or PyPI
+conda-forge/kuyruk-feedstock : Not on GitHub or PyPI
+conda-forge/misaka-feedstock : Not on GitHub or PyPI
+otwrapy : No releases found on GitHub.
+conda-forge/fenics-feedstock : Not on GitHub or PyPI
+conda-forge/mumps-feedstock : Not on GitHub or PyPI
+conda-forge/qtawesome-feedstock : Not on GitHub or PyPI
+conda-forge/yail-feedstock : Not on GitHub or PyPI
+conda-forge/networkx-feedstock : Not on GitHub or PyPI
+xsgen : Could not get package name from source.fn key.
+conda-forge/pyxdameraulevenshtein-feedstock : Not on GitHub or PyPI
+conda-forge/petsc-feedstock : Could not parse meta.yaml
+conda-forge/petsc4py-feedstock : Could not parse meta.yaml
+python-lmdb : Could not get package name from source.fn key.
+conda-forge/unittest2pytest-feedstock : Not on GitHub or PyPI
+mocsy : No source.fn key found.
+conda-forge/desktop3-feedstock : Not on GitHub or PyPI
+conda-forge/ocw-feedstock : Not on GitHub or PyPI
+conda-forge/tinyarray-feedstock : Not on GitHub or PyPI
+conda-forge/eight-feedstock : Not on GitHub or PyPI
+conda-forge/keepalive-feedstock : Not on GitHub or PyPI
+conda-forge/sudospawner-feedstock : Not on GitHub or PyPI
+ciocheck : No source.fn key found.
+conda-forge/flask-assets-feedstock : Not on GitHub or PyPI
+conda-forge/ase-feedstock : Not on GitHub or PyPI
+conda-forge/ijroi-feedstock : Not on GitHub or PyPI
+conda-forge/ghost.py-feedstock : Not on GitHub or PyPI
+conda-forge/lektor-feedstock : Not on GitHub or PyPI
+conda-forge/iteration_utilities-feedstock : Not on GitHub or PyPI
+conda-forge/jedi-feedstock : Not on GitHub or PyPI
+conda-forge/permission-feedstock : Not on GitHub or PyPI
+conda-forge/webargs-feedstock : Not on GitHub or PyPI
+conda-forge/apispec-feedstock : Not on GitHub or PyPI
+conda-forge/flask-marshmallow-feedstock : Not on GitHub or PyPI
+conda-forge/pyprind-feedstock : Not on GitHub or PyPI
+conda-forge/whoosh-feedstock : Not on GitHub or PyPI
+conda-forge/randomcolor-feedstock : Not on GitHub or PyPI
+conda-forge/flask-restplus-feedstock : Not on GitHub or PyPI
+conda-forge/marshmallow-sqlalchemy-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-flake8-feedstock : Not on GitHub or PyPI
+conda-forge/imgroi-feedstock : Not on GitHub or PyPI
+conda-forge/msgpack-python-feedstock : Not on GitHub or PyPI
+conda-forge/probablepeople-feedstock : Not on GitHub or PyPI
+conda-forge/sgp4-feedstock : Could not parse meta.yaml
+docker-pycreds : Could not find repo on GitHub.
+deepdish : Could not get package name from source.fn key.
+conda-forge/yamllint-feedstock : Not on GitHub or PyPI
+khronos-opencl-icd-loader : Could not get package name from source.fn key.
+conda-forge/coursera-dl-feedstock : Not on GitHub or PyPI
+conda-forge/python-dotenv-feedstock : Not on GitHub or PyPI
+conda-forge/griddataformats-feedstock : Not on GitHub or PyPI
+conda-forge/mplview-feedstock : Not on GitHub or PyPI
+conda-forge/fastparquet-feedstock : Not on GitHub or PyPI
+conda-forge/kwant-feedstock : Not on GitHub or PyPI
+conda-forge/datamountaineer-schemaregistry-feedstock : Could not parse meta.yaml
+conda-forge/loghub-feedstock : Not on GitHub or PyPI
+conda-forge/cyclus-build-deps-feedstock : No source.url key found.
+conda-forge/fmilib-feedstock : Could not parse meta.yaml
+conda-forge/fmipp-feedstock : No source.url key found.
+xtensor : No releases found on GitHub.
+tmux : No source.fn key found.
+conda-forge/libadjoint-feedstock : Not on GitHub or PyPI
+conda-forge/occt-feedstock : Could not parse meta.yaml
+conda-forge/osmnx-feedstock : Not on GitHub or PyPI
+conda-forge/slepc-feedstock : Could not parse meta.yaml
+conda-forge/slepc4py-feedstock : Could not parse meta.yaml
+conda-forge/librabbitmq-feedstock : Not on GitHub or PyPI
+conda-forge/boto3-feedstock : Not on GitHub or PyPI
+conda-forge/dbf-feedstock : Not on GitHub or PyPI
+conda-forge/assimulo-feedstock : Not on GitHub or PyPI
+conda-forge/skan-feedstock : Not on GitHub or PyPI
+django-nested-admin : No releases found on GitHub.
+python-monkey-business : No releases found on GitHub.
+pyfai : Could not get package name from source.fn key.
+conda-forge/ndarray_listener-feedstock : Not on GitHub or PyPI
+conda-forge/fastcluster-feedstock : Not on GitHub or PyPI
+conda-forge/pyfmi-feedstock : Not on GitHub or PyPI
+conda-forge/brent_search-feedstock : Not on GitHub or PyPI
+conda-forge/ecm-feedstock : Not on GitHub or PyPI
+conda-forge/memprof-feedstock : Not on GitHub or PyPI
+conda-forge/multiprocess-feedstock : Not on GitHub or PyPI
+conda-forge/pathos-feedstock : Not on GitHub or PyPI
+conda-forge/pox-feedstock : Not on GitHub or PyPI
+conda-forge/ppft-feedstock : Not on GitHub or PyPI
+conda-forge/dolfin-adjoint-feedstock : Not on GitHub or PyPI
+conda-forge/mono-feedstock : Not on GitHub or PyPI
+ampl-mp : Could not get package name from source.fn key.
+conda-forge/flask-openid-feedstock : Not on GitHub or PyPI
+piranha : Could not get package name from source.fn key.
+conda-forge/asap-feedstock : Not on GitHub or PyPI
+conda-forge/build_capi-feedstock : Not on GitHub or PyPI
+conda-forge/optimix-feedstock : Not on GitHub or PyPI
+PyXB : No releases found on GitHub.
+conda-forge/extinction-feedstock : Not on GitHub or PyPI
+conda-forge/coinmp-feedstock : Not on GitHub or PyPI
+conda-forge/py-feedstock : Not on GitHub or PyPI
+xtensor-python : No releases found on GitHub.
+attrs-sqlalchemy : Could not find repo on GitHub.
+conda-forge/discretizer-feedstock : Not on GitHub or PyPI
+conda-forge/skyfield-feedstock : Not on GitHub or PyPI
+conda-forge/cairocffi-feedstock : Not on GitHub or PyPI
+conda-forge/cairosvg-feedstock : Not on GitHub or PyPI
+conda-forge/tinycss-feedstock : Not on GitHub or PyPI
+conda-forge/djangorestframework-gis-feedstock : Not on GitHub or PyPI
+ncl : No source.fn key found.
+conda-forge/iowait-feedstock : Not on GitHub or PyPI
+otlm : Could not get package name from source.fn key.
+conda-forge/spglib-feedstock : Not on GitHub or PyPI
+conda-forge/nestly-feedstock : Not on GitHub or PyPI
+conda-forge/docx2txt-feedstock : Not on GitHub or PyPI
+conda-forge/ncephes-feedstock : Not on GitHub or PyPI
+conda-forge/pyorgmode-feedstock : Not on GitHub or PyPI
+conda-forge/libglu-feedstock : Not on GitHub or PyPI
+conda-forge/nbsphinx-feedstock : Not on GitHub or PyPI
+conda-forge/numpy_sugar-feedstock : Not on GitHub or PyPI
+celiagg : No releases found on GitHub.
+conda-forge/pysdl2-feedstock : Not on GitHub or PyPI
+conda-forge/sdl2-feedstock : Could not parse meta.yaml
+conda-forge/txaio-feedstock : Not on GitHub or PyPI
+conda-forge/flake8-import-order-feedstock : Not on GitHub or PyPI
+conda-forge/autobahn-feedstock : Not on GitHub or PyPI
+conda-forge/flake8-builtins-feedstock : Not on GitHub or PyPI
+pyranha : Could not get package name from source.fn key.
+conda-forge/anyqt-feedstock : Not on GitHub or PyPI
+conda-forge/imagehash-feedstock : Not on GitHub or PyPI
+conda-forge/flake8-comprehensions-feedstock : Not on GitHub or PyPI
+conda-forge/treq-feedstock : Not on GitHub or PyPI
+conda-forge/flake8-mutable-feedstock : Not on GitHub or PyPI
+conda-forge/bagit-feedstock : No source.url key found.
+conda-forge/wsaccel-feedstock : Not on GitHub or PyPI
+django-admin-shortcuts : No releases found on GitHub.
+conda-forge/django-ajax-selects-feedstock : Not on GitHub or PyPI
+conda-forge/flake8-copyright-feedstock : Not on GitHub or PyPI
+conda-forge/flake8-pep3101-feedstock : Not on GitHub or PyPI
+conda-forge/flake8-print-feedstock : Not on GitHub or PyPI
+conda-forge/django-apptemplates-feedstock : Not on GitHub or PyPI
+django-uuidfield : No releases found on GitHub.
+conda-forge/jupyter_latex_envs-feedstock : Not on GitHub or PyPI
+conda-forge/mmtf-python-feedstock : Not on GitHub or PyPI
+conda-forge/diff-match-patch-feedstock : Not on GitHub or PyPI
+conda-forge/flake8-polyfill-feedstock : Not on GitHub or PyPI
+pyngl : No releases found on GitHub.
+conda-forge/django-daterange-filter-feedstock : Not on GitHub or PyPI
+conda-forge/dmd-feedstock : Not on GitHub or PyPI
+conda-forge/flake8-docstrings-feedstock : Not on GitHub or PyPI
+conda-forge/django-jquery-feedstock : Not on GitHub or PyPI
+conda-forge/tablib-feedstock : Not on GitHub or PyPI
+conda-forge/djangocms-admin-style-feedstock : Not on GitHub or PyPI
+conda-forge/django-import-export-feedstock : Not on GitHub or PyPI
+conda-forge/obspyck-feedstock : Not on GitHub or PyPI
+conda-forge/jupyter_highlight_selected_word-feedstock : Not on GitHub or PyPI
+conda-forge/pydispatcher-feedstock : Not on GitHub or PyPI
+fish : Could not find repo on GitHub.
+conda-forge/sphinxcontrib-paverutils-feedstock : Not on GitHub or PyPI
+conda-forge/keyrings.alt-feedstock : Not on GitHub or PyPI
+doconce : No releases found on GitHub.
+backward-cpp : Could not get package name from source.fn key.
+conda-forge/read-roi-feedstock : Not on GitHub or PyPI
+conda-forge/plumbum-feedstock : Not on GitHub or PyPI
+conda-forge/pyreadline-feedstock : Not on GitHub or PyPI
+conda-forge/sparqlwrapper-feedstock : Not on GitHub or PyPI
+libuv : No releases found on GitHub.
+conda-forge/libconfig-feedstock : Not on GitHub or PyPI
+conda-forge/openjdk-feedstock : Not on GitHub or PyPI
+conda-forge/python-graphviz-feedstock : Not on GitHub or PyPI
+git-lfs-windows-amd64 : Could not find repo on GitHub.
+glob2 : Could not find repo on GitHub.
+conda-forge/mosh-feedstock : Not on GitHub or PyPI
+conda-forge/help2man-feedstock : Not on GitHub or PyPI
+conda-forge/pygypsy-feedstock : Not on GitHub or PyPI
+conda-forge/sortedcollections-feedstock : Not on GitHub or PyPI
+go-spatial : Could not get package name from source.fn key.
+conda-forge/pweave-feedstock : Not on GitHub or PyPI
+conda-forge/sfepy-feedstock : No source.url key found.
+conda-forge/gnuplot-feedstock : Not on GitHub or PyPI
+conda-forge/libmad-feedstock : Could not parse meta.yaml
+conda-forge/sdl2_gfx-feedstock : Could not parse meta.yaml
+conda-forge/ninja_syntax-feedstock : Not on GitHub or PyPI
+conda-forge/nr-feedstock : No source.url key found.
+conda-forge/chai-feedstock : Not on GitHub or PyPI
+conda-forge/nose-cov-feedstock : Not on GitHub or PyPI
+conda-forge/r-base-feedstock : Not on GitHub or PyPI
+cquadpack : Could not get package name from source.fn key.
+conda-forge/libogg-feedstock : Could not parse meta.yaml
+conda-forge/smpeg2-feedstock : Could not parse meta.yaml
+conda-forge/xerces-c28-feedstock : Not on GitHub or PyPI
+conda-forge/pandocfilters-feedstock : Not on GitHub or PyPI
+conda-forge/signac-feedstock : Not on GitHub or PyPI
+conda-forge/sdl2_net-feedstock : Could not parse meta.yaml
+conda-forge/brent-search-feedstock : Not on GitHub or PyPI
+conda-forge/build-capi-feedstock : Not on GitHub or PyPI
+conda-forge/sdl2_ttf-feedstock : Could not parse meta.yaml
+conda-forge/curio-feedstock : Not on GitHub or PyPI
+conda-forge/libvorbis-feedstock : Could not parse meta.yaml
+conda-forge/libwebp-feedstock : Could not parse meta.yaml
+conda-forge/lime-feedstock : Not on GitHub or PyPI
+conda-forge/mechanicalsoup-feedstock : Not on GitHub or PyPI
+sqlalchemy-redshift : No releases found on GitHub.
+conda-forge/phonopy-feedstock : Not on GitHub or PyPI
+conda-forge/cfitsio-feedstock : Not on GitHub or PyPI
+conda-forge/pandas-plink-feedstock : Not on GitHub or PyPI
+conda-forge/shapelib-feedstock : Not on GitHub or PyPI
+dbus-cxx : Could not get package name from source.fn key.
+conda-forge/biopandas-feedstock : Not on GitHub or PyPI
+conda-forge/limix-inference-feedstock : Not on GitHub or PyPI
+conda-forge/libflac-feedstock : Could not parse meta.yaml
+conda-forge/cligj-feedstock : Not on GitHub or PyPI
+conda-forge/engarde-feedstock : Not on GitHub or PyPI
+conda-forge/octave_kernel-feedstock : Not on GitHub or PyPI
+websockets : No releases found on GitHub.
+conda-forge/backports.shutil_which-feedstock : Not on GitHub or PyPI
+conda-forge/monty-feedstock : Not on GitHub or PyPI
+conda-forge/nbdime-feedstock : Not on GitHub or PyPI
+conda-forge/crick-feedstock : Not on GitHub or PyPI
+conda-forge/sqlalchemy-feedstock : Not on GitHub or PyPI
+conda-forge/imageio-feedstock : Not on GitHub or PyPI
+conda-forge/asv-feedstock : Not on GitHub or PyPI
+conda-forge/calliope-feedstock : Not on GitHub or PyPI
+conda-forge/pygit2-feedstock : Not on GitHub or PyPI
+conda-forge/pyvisa-py-feedstock : Not on GitHub or PyPI
+jemalloc : Could not get package name from source.fn key.
+conda-forge/python-rapidjson-feedstock : Not on GitHub or PyPI
+conda-forge/sdl2_mixer-feedstock : Could not parse meta.yaml
+conda-forge/hkdf-feedstock : Not on GitHub or PyPI
+conda-forge/doxygen-feedstock : Not on GitHub or PyPI
+conda-forge/georaster-feedstock : Not on GitHub or PyPI
+conda-forge/sdl2_image-feedstock : Could not parse meta.yaml
+markdown-checklist : No releases found on GitHub.
+conda-forge/python-markdown-math-feedstock : Not on GitHub or PyPI
+conda-forge/sphinxcontrib-autodoc_doxygen-feedstock : Not on GitHub or PyPI
+conda-forge/vifm-feedstock : Not on GitHub or PyPI
+conda-forge/libtheora-feedstock : Not on GitHub or PyPI
+conda-forge/ply-feedstock : Not on GitHub or PyPI
+conda-forge/lp_solve-feedstock : Could not parse meta.yaml
+conda-forge/boost-cpp-feedstock : Not on GitHub or PyPI
+conda-forge/igraph-feedstock : Not on GitHub or PyPI
+pytest-spec : No releases found on GitHub.
+conda-forge/python-igraph-feedstock : Not on GitHub or PyPI
+conda-forge/bleach-feedstock : Not on GitHub or PyPI
+conda-forge/cffi-feedstock : Not on GitHub or PyPI
+cymetric : Could not get package name from source.fn key.
+preprocess : Could not get package name from source.fn key.
+conda-forge/alps-feedstock : Could not parse meta.yaml
+conda-forge/coveralls-feedstock : Not on GitHub or PyPI
+conda-forge/mysql-connector-c-feedstock : Not on GitHub or PyPI
+conda-forge/numpydoc-feedstock : Not on GitHub or PyPI
+conda-forge/polcart-feedstock : Not on GitHub or PyPI
+nbgrader : No source.fn key found.
+django-recaptcha : No releases found on GitHub.
+conda-forge/elastic-feedstock : Not on GitHub or PyPI
+conda-forge/pyqtgraph-feedstock : Not on GitHub or PyPI
+conda-forge/rpfits-feedstock : Not on GitHub or PyPI
+conda-forge/sphinx-gallery-feedstock : Not on GitHub or PyPI
+conda-forge/astropy-feedstock : Not on GitHub or PyPI
+conda-forge/bunch-feedstock : Not on GitHub or PyPI
+conda-forge/nxviz-feedstock : Not on GitHub or PyPI
+conda-forge/pony-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-xproto-feedstock : Not on GitHub or PyPI
+conda-forge/wcslib-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-util-macros-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-fixesproto-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-inputproto-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-kbproto-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-recordproto-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-renderproto-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-xextproto-feedstock : Not on GitHub or PyPI
+conda-forge/ephem-feedstock : Not on GitHub or PyPI
+conda-forge/jdatetime-feedstock : Not on GitHub or PyPI
+conda-forge/umalqurra-feedstock : Not on GitHub or PyPI
+conda-forge/pyabel-feedstock : Not on GitHub or PyPI
+ghostscript : Could not find repo on GitHub.
+conda-forge/testpath-feedstock : Not on GitHub or PyPI
+conda-forge/maya-feedstock : Not on GitHub or PyPI
+conda-forge/appnope-feedstock : Not on GitHub or PyPI
+conda-forge/clangdev-feedstock : Could not parse meta.yaml
+pymc : No source.fn key found.
+conda-forge/xorg-libpthread-stubs-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-xcb-proto-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-xtrans-feedstock : Not on GitHub or PyPI
+conda-forge/gmt-feedstock : Not on GitHub or PyPI
+conda-forge/gobject-introspection-feedstock : Not on GitHub or PyPI
+pprintpp : No releases found on GitHub.
+wrf-python : No releases found on GitHub.
+python-spake2 : No releases found on GitHub.
+conda-forge/xorg-libx11-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxau-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxcb-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxdmcp-feedstock : Not on GitHub or PyPI
+ioLabs : Could not find repo on GitHub.
+xsimd : No releases found on GitHub.
+conda-forge/ipopt-feedstock : Not on GitHub or PyPI
+cryptopp : Could not get package name from source.fn key.
+cdat_info : No source.fn key found.
+pyosf : Could not get package name from source.fn key.
+conda-forge/funcy-feedstock : Not on GitHub or PyPI
+conda-forge/libcxx-feedstock : Could not parse meta.yaml
+pynacl : No releases found on GitHub.
+conda-forge/reprounzip-feedstock : Not on GitHub or PyPI
+conda-forge/reprounzip-docker-feedstock : Not on GitHub or PyPI
+conda-forge/reprounzip-vagrant-feedstock : Not on GitHub or PyPI
+conda-forge/reprozip-feedstock : Not on GitHub or PyPI
+conda-forge/rpaths-feedstock : Not on GitHub or PyPI
+conda-forge/spyder-unittest-feedstock : Not on GitHub or PyPI
+conda-forge/usagestats-feedstock : Not on GitHub or PyPI
+conda-forge/aospy-feedstock : Not on GitHub or PyPI
+conda-forge/pefile-feedstock : Not on GitHub or PyPI
+conda-forge/pywin32-feedstock : Not on GitHub or PyPI
+webencodings : Could not find repo on GitHub.
+conda-forge/xorg-libice-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libsm-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxext-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxfixes-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxi-feedstock : Not on GitHub or PyPI
+conda-forge/pgplot-feedstock : Not on GitHub or PyPI
+conda-forge/make-feedstock : Not on GitHub or PyPI
+cyipopt : Could not get package name from source.fn key.
+conda-forge/version_information-feedstock : Not on GitHub or PyPI
+conda-forge/ipympl-feedstock : Not on GitHub or PyPI
+conda-forge/yeadon-feedstock : Not on GitHub or PyPI
+conda-forge/opty-feedstock : Not on GitHub or PyPI
+conda-forge/mshr-feedstock : Not on GitHub or PyPI
+conda-forge/mapkit-feedstock : Not on GitHub or PyPI
+conda-forge/dbfread-feedstock : Not on GitHub or PyPI
+conda-forge/flask-appbuilder-feedstock : Not on GitHub or PyPI
+conda-forge/html5lib-feedstock : Not on GitHub or PyPI
+conda-forge/leather-feedstock : Not on GitHub or PyPI
+conda-forge/proof-feedstock : Not on GitHub or PyPI
+conda-forge/rapidpy-feedstock : Not on GitHub or PyPI
+conda-forge/argcomplete-feedstock : Not on GitHub or PyPI
+conda-forge/cling-patches-feedstock : No source.url key found.
+conda-forge/flit-feedstock : Not on GitHub or PyPI
+conda-forge/flit_install_py2-feedstock : Not on GitHub or PyPI
+conda-forge/pocl-feedstock : Not on GitHub or PyPI
+conda-forge/pybinding-feedstock : Not on GitHub or PyPI
+conda-forge/pylems-feedstock : Not on GitHub or PyPI
+conda-forge/pytimeparse-feedstock : Not on GitHub or PyPI
+conda-forge/requests_download-feedstock : Not on GitHub or PyPI
+conda-forge/timezonefinder-feedstock : Not on GitHub or PyPI
+xeus : No releases found on GitHub.
+conda-forge/zipfile36-feedstock : Not on GitHub or PyPI
+conda-forge/chardet-feedstock : Not on GitHub or PyPI
+craftr : No releases found on GitHub.
+conda-forge/flufl.enum-feedstock : Not on GitHub or PyPI
+conda-forge/geoplot-feedstock : Not on GitHub or PyPI
+conda-forge/ipyvolume-feedstock : Not on GitHub or PyPI
+conda-forge/sixs-feedstock : Not on GitHub or PyPI
+conda-forge/simhash-feedstock : Not on GitHub or PyPI
+conda-forge/spylon-kernel-feedstock : Not on GitHub or PyPI
+conda-forge/validate_email-feedstock : Not on GitHub or PyPI
+conda-forge/wikipedia-feedstock : Not on GitHub or PyPI
+latexcodec : No releases found on GitHub.
+conda-forge/agate-feedstock : Not on GitHub or PyPI
+conda-forge/esmp-feedstock : Not on GitHub or PyPI
+conda-forge/luarocks-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxcursor-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxmu-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxpm-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxrender-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxt-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxtst-feedstock : Not on GitHub or PyPI
+conda-forge/clapack-feedstock : Not on GitHub or PyPI
+distarray : No source.fn key found.
+conda-forge/mpfi-feedstock : Not on GitHub or PyPI
+conda-forge/ossuuid-feedstock : Not on GitHub or PyPI
+conda-forge/pysurfer-feedstock : Not on GitHub or PyPI
+conda-forge/m4ri-feedstock : Not on GitHub or PyPI
+conda-forge/m4rie-feedstock : Not on GitHub or PyPI
+conda-forge/gf2x-feedstock : Not on GitHub or PyPI
+conda-forge/ntl-feedstock : Not on GitHub or PyPI
+conda-forge/bcolz-feedstock : Not on GitHub or PyPI
+casadi : Could not get package name from source.fn key.
+conda-forge/chrpath-feedstock : Not on GitHub or PyPI
+conda-forge/courtana-feedstock : Not on GitHub or PyPI
+conda-forge/gsshapy-feedstock : Not on GitHub or PyPI
+conda-forge/limix-feedstock : Not on GitHub or PyPI
+conda-forge/pari-feedstock : Not on GitHub or PyPI
+conda-forge/ppl-feedstock : Not on GitHub or PyPI
+conda-forge/py6s-feedstock : Not on GitHub or PyPI
+conda-forge/ragel-feedstock : Not on GitHub or PyPI
+conda-forge/simupop-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-cf-files-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-font-util-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-gccmakedep-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-imake-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxaw-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxaw3d-feedstock : Not on GitHub or PyPI
+conda-forge/agate-excel-feedstock : Not on GitHub or PyPI
+conda-forge/celerite-feedstock : Not on GitHub or PyPI
+cliquer : Could not find repo on GitHub.
+conda-forge/iml-feedstock : Not on GitHub or PyPI
+libdrs : No source.fn key found.
+conda-forge/lrcalc-feedstock : Not on GitHub or PyPI
+conda-forge/py-cpuinfo-feedstock : Not on GitHub or PyPI
+conda-forge/cddlib-feedstock : Not on GitHub or PyPI
+conda-forge/flask-apispec-feedstock : Not on GitHub or PyPI
+pywps : No releases found on GitHub.
+conda-forge/ratpoints-feedstock : Not on GitHub or PyPI
+conda-forge/superlu-feedstock : Not on GitHub or PyPI
+conda-forge/gap-feedstock : Not on GitHub or PyPI
+conda-forge/symmetrica-feedstock : Not on GitHub or PyPI
+conda-forge/zn_poly-feedstock : Not on GitHub or PyPI
+planarity : Could not find repo on GitHub.
+conda-forge/ecl-feedstock : Not on GitHub or PyPI
+conda-forge/easydev-feedstock : Not on GitHub or PyPI
+conda-forge/backports.lzma-feedstock : Not on GitHub or PyPI
+conda-forge/rw-feedstock : Not on GitHub or PyPI
+conda-forge/singular-feedstock : Not on GitHub or PyPI
+conda-forge/flintqs-feedstock : Not on GitHub or PyPI
+conda-forge/lcalc-feedstock : Not on GitHub or PyPI
+conda-forge/gfan-feedstock : Not on GitHub or PyPI
+conda-forge/sagemath-db-combinatorial-designs-feedstock : Not on GitHub or PyPI
+conda-forge/sagemath-db-graphs-feedstock : Not on GitHub or PyPI
+conda-forge/sagemath-db-polytopes-feedstock : Not on GitHub or PyPI
+conda-forge/osx-pocl-opencl-feedstock : No source.url key found.
+conda-forge/snzip-feedstock : Not on GitHub or PyPI
+conda-forge/homura-feedstock : Not on GitHub or PyPI
+conda-forge/polyline-feedstock : Not on GitHub or PyPI
+conda-forge/ratelim-feedstock : Not on GitHub or PyPI
+conda-forge/doc8-feedstock : Not on GitHub or PyPI
+conda-forge/lua-luafilesystem-feedstock : No source.url key found.
+lua-luaposix : Could not find repo on GitHub.
+conda-forge/restructuredtext_lint-feedstock : Not on GitHub or PyPI
+conda-forge/raven-feedstock : Not on GitHub or PyPI
+conda-forge/geocoder-feedstock : Not on GitHub or PyPI
+conda-forge/usgs-feedstock : Not on GitHub or PyPI
+conda-forge/lzo-feedstock : Not on GitHub or PyPI
+conda-forge/easybuild-feedstock : Not on GitHub or PyPI
+conda-forge/easybuild-easyblocks-feedstock : Not on GitHub or PyPI
+conda-forge/easybuild-easyconfigs-feedstock : Not on GitHub or PyPI
+conda-forge/easybuild-framework-feedstock : Not on GitHub or PyPI
+conda-forge/vsc-base-feedstock : Not on GitHub or PyPI
+conda-forge/vsc-install-feedstock : Not on GitHub or PyPI
+conda-forge/environment-modules-feedstock : Not on GitHub or PyPI
+conda-forge/agate-dbf-feedstock : Not on GitHub or PyPI
+conda-forge/pymagej-feedstock : Not on GitHub or PyPI
+conda-forge/r-boot-feedstock : Not on GitHub or PyPI
+conda-forge/agate-lookup-feedstock : Not on GitHub or PyPI
+conda-forge/agate-remote-feedstock : Not on GitHub or PyPI
+conda-forge/agate-sql-feedstock : Not on GitHub or PyPI
+conda-forge/agate-stats-feedstock : Not on GitHub or PyPI
+jupyter-dashboards-server : Could not find repo on GitHub.
+conda-forge/mesalib-feedstock : Not on GitHub or PyPI
+conda-forge/r-crayon-feedstock : Not on GitHub or PyPI
+conda-forge/r-digest-feedstock : Not on GitHub or PyPI
+conda-forge/r-gsw-feedstock : Not on GitHub or PyPI
+conda-forge/r-jsonlite-feedstock : Not on GitHub or PyPI
+conda-forge/r-lattice-feedstock : Not on GitHub or PyPI
+conda-forge/r-magrittr-feedstock : Not on GitHub or PyPI
+conda-forge/r-r6-feedstock : Not on GitHub or PyPI
+r-repr : Could not get package name from source.fn key.
+conda-forge/r-stringi-feedstock : Not on GitHub or PyPI
+conda-forge/r-uuid-feedstock : Not on GitHub or PyPI
+conda-forge/r-oce-feedstock : Not on GitHub or PyPI
+conda-forge/cymem-feedstock : Not on GitHub or PyPI
+conda-forge/murmurhash-feedstock : Not on GitHub or PyPI
+conda-forge/preshed-feedstock : Not on GitHub or PyPI
+conda-forge/r-evaluate-feedstock : Not on GitHub or PyPI
+r-irdisplay : Could not find repo on GitHub.
+conda-forge/r-matrix-feedstock : Not on GitHub or PyPI
+conda-forge/r-pbdzmq-feedstock : Not on GitHub or PyPI
+conda-forge/r-stringr-feedstock : Not on GitHub or PyPI
+conda-forge/r-survival-feedstock : Not on GitHub or PyPI
+conda-forge/semver-feedstock : Not on GitHub or PyPI
+conda-forge/spacy-feedstock : Not on GitHub or PyPI
+conda-forge/sputnik-feedstock : Not on GitHub or PyPI
+conda-forge/thinc-feedstock : Not on GitHub or PyPI
+yajl : No releases found on GitHub.
+libcdms : No source.fn key found.
+conda-forge/libcf-feedstock : Not on GitHub or PyPI
+libdrs_f : No source.fn key found.
+conda-forge/py-lz4framed-feedstock : Not on GitHub or PyPI
+conda-forge/orange3-network-feedstock : Not on GitHub or PyPI
+conda-forge/orange3-timeseries-feedstock : Not on GitHub or PyPI
+cdtime : No source.fn key found.
+conda-forge/kernda-feedstock : Not on GitHub or PyPI
+conda-forge/beautifulsoup4-feedstock : Not on GitHub or PyPI
+conda-forge/mne-feedstock : Not on GitHub or PyPI
+conda-forge/pysolr-feedstock : Not on GitHub or PyPI
+conda-forge/tweepy-feedstock : Not on GitHub or PyPI
+conda-forge/sagemath-db-elliptic-curves-feedstock : Not on GitHub or PyPI
+conda-forge/libgap-feedstock : Not on GitHub or PyPI
+conda-forge/vine-feedstock : Not on GitHub or PyPI
+conda-forge/bzip2-feedstock : Could not parse meta.yaml
+conda-forge/reports-feedstock : Not on GitHub or PyPI
+conda-forge/libsakura-feedstock : Not on GitHub or PyPI
+conda-forge/ldaptor-feedstock : Not on GitHub or PyPI
+sagelib : No releases found on GitHub.
+conda-forge/pytoml-feedstock : Not on GitHub or PyPI
+conda-forge/sphinxjp.themes.impressjs-feedstock : Not on GitHub or PyPI
+conda-forge/webob-feedstock : Not on GitHub or PyPI
+conda-forge/attrs-feedstock : Not on GitHub or PyPI
+conda-forge/cached-property-feedstock : Not on GitHub or PyPI
+conda-forge/dectate-feedstock : Not on GitHub or PyPI
+conda-forge/easytest-feedstock : Not on GitHub or PyPI
+graphite2 : No source.fn key found.
+conda-forge/jupyter_sphinx-feedstock : Not on GitHub or PyPI
+conda-forge/parse-feedstock : Not on GitHub or PyPI
+conda-forge/unixodbc-feedstock : Not on GitHub or PyPI
+conda-forge/argon2_cffi-feedstock : Not on GitHub or PyPI
+conda-forge/bowerstatic-feedstock : Not on GitHub or PyPI
+conda-forge/orange3-text-feedstock : Not on GitHub or PyPI
+otfmi : No releases found on GitHub.
+conda-forge/publish-feedstock : Not on GitHub or PyPI
+conda-forge/rubiks-feedstock : Not on GitHub or PyPI
+conda-forge/bibtexparser-feedstock : Not on GitHub or PyPI
+conda-forge/conda-mirror-feedstock : Not on GitHub or PyPI
+conda-forge/crochet-feedstock : Not on GitHub or PyPI
+conda-forge/icalendar-feedstock : Not on GitHub or PyPI
+conda-forge/polib-feedstock : Not on GitHub or PyPI
+conda-forge/python-constraint-feedstock : Not on GitHub or PyPI
+conda-forge/scipy-sugar-feedstock : Not on GitHub or PyPI
+conda-forge/sagemath-db-conway-polynomials-feedstock : Not on GitHub or PyPI
+conda-forge/nauty-feedstock : Not on GitHub or PyPI
+conda-forge/palp-feedstock : Not on GitHub or PyPI
+conda-forge/poppler-feedstock : Not on GitHub or PyPI
+conda-forge/poppler-data-feedstock : Not on GitHub or PyPI
+conda-forge/giac-feedstock : Not on GitHub or PyPI
+conda-forge/reg-feedstock : Not on GitHub or PyPI
+conda-forge/pyseaweed-feedstock : Not on GitHub or PyPI
+conda-forge/armadillo-feedstock : Not on GitHub or PyPI
+conda-forge/pandas-gbq-feedstock : Not on GitHub or PyPI
+conda-forge/pynamical-feedstock : Not on GitHub or PyPI
+conda-forge/cppunit-feedstock : Not on GitHub or PyPI
+conda-forge/importscan-feedstock : Not on GitHub or PyPI
+conda-forge/pystan-feedstock : Not on GitHub or PyPI
+conda-forge/xlrd-feedstock : Not on GitHub or PyPI
+mockredispy : Could not find repo on GitHub.
+conda-forge/pyscss-feedstock : Not on GitHub or PyPI
+conda-forge/beaker-feedstock : Not on GitHub or PyPI
+conda-forge/morepath-feedstock : Not on GitHub or PyPI
+conda-forge/parse_type-feedstock : Not on GitHub or PyPI
+virtualenv : Could not get package name from source.fn key.
+conda-forge/nglview-feedstock : Not on GitHub or PyPI
+conda-forge/colour-science-feedstock : Not on GitHub or PyPI
+conda-forge/more.forwarded-feedstock : Not on GitHub or PyPI
+conda-forge/more.pathtool-feedstock : Not on GitHub or PyPI
+conda-forge/more.static-feedstock : Not on GitHub or PyPI
+conda-forge/docrep-feedstock : Not on GitHub or PyPI
+conda-forge/goftests-feedstock : Not on GitHub or PyPI
+conda-forge/pyasdf-feedstock : Not on GitHub or PyPI
+pyxid : No releases found on GitHub.
+conda-forge/statistics-feedstock : Not on GitHub or PyPI
+conda-forge/zeep-feedstock : Not on GitHub or PyPI
+geomalgo : No releases found on GitHub.
+conda-forge/betfairlightweight-feedstock : Not on GitHub or PyPI
+conda-forge/openfst-feedstock : Not on GitHub or PyPI
+conda-forge/python-fmask-feedstock : Not on GitHub or PyPI
+conda-forge/behave-feedstock : Not on GitHub or PyPI
+cdms2 : No source.fn key found.
+conda-forge/natsort-feedstock : Not on GitHub or PyPI
+conda-forge/pypeg2-feedstock : Not on GitHub or PyPI
+conda-forge/speex-feedstock : Not on GitHub or PyPI
+conda-forge/maven-feedstock : Not on GitHub or PyPI
+conda-forge/rdflib-feedstock : Not on GitHub or PyPI
+conda-forge/bumpversion-feedstock : Not on GitHub or PyPI
+conda-forge/csvkit-feedstock : Not on GitHub or PyPI
+conda-forge/rply-feedstock : Not on GitHub or PyPI
+conda-forge/sympow-feedstock : Not on GitHub or PyPI
+conda-forge/aubio-feedstock : Not on GitHub or PyPI
+conda-forge/cheroot-feedstock : Not on GitHub or PyPI
+tikzmagic : Could not get package name from source.fn key.
+conda-forge/glue-core-feedstock : Not on GitHub or PyPI
+conda-forge/maxima-feedstock : Not on GitHub or PyPI
+conda-forge/pyspark-feedstock : Not on GitHub or PyPI
+conda-forge/python-memcached-feedstock : Not on GitHub or PyPI
+conda-forge/urlobject-feedstock : Not on GitHub or PyPI
+conda-forge/win_inet_pton-feedstock : Not on GitHub or PyPI
+conda-forge/sage-feedstock : No source.url key found.
+conda-forge/pycifrw-feedstock : Not on GitHub or PyPI
+conda-forge/xgboost-feedstock : Not on GitHub or PyPI
+conda-forge/geographiclib-feedstock : Not on GitHub or PyPI
+conda-forge/pdir2-feedstock : Not on GitHub or PyPI
+conda-forge/faker-feedstock : Not on GitHub or PyPI
+conda-forge/flaky-feedstock : Not on GitHub or PyPI
+conda-forge/mr.bob-feedstock : Not on GitHub or PyPI
+mysql-connector-python : No releases found on GitHub.
+conda-forge/sqlalchemy-migrate-feedstock : Not on GitHub or PyPI
+conda-forge/pyslet-feedstock : Not on GitHub or PyPI
+conda-forge/scons-feedstock : Not on GitHub or PyPI
+conda-forge/conda-devenv-feedstock : No source.url key found.
+conda-forge/pychef-feedstock : Not on GitHub or PyPI
+conda-forge/python-confluent-kafka-feedstock : Not on GitHub or PyPI
+conda-forge/routes-feedstock : Not on GitHub or PyPI
+conda-forge/tempora-feedstock : Not on GitHub or PyPI
+conda-forge/simhash-py-feedstock : Not on GitHub or PyPI
+datacube : Could not find repo on GitHub.
+pympler : No releases found on GitHub.
+conda-forge/libgpuarray-feedstock : Could not parse meta.yaml
+conda-forge/py-ubjson-feedstock : Not on GitHub or PyPI
+textadapter : No releases found on GitHub.
+larray : No releases found on GitHub.
+utfcpp : Could not get package name from source.fn key.
+conda-forge/r-class-feedstock : Not on GitHub or PyPI
+conda-forge/r-cluster-feedstock : Not on GitHub or PyPI
+conda-forge/r-codetools-feedstock : Not on GitHub or PyPI
+conda-forge/r-foreign-feedstock : Not on GitHub or PyPI
+conda-forge/r-kernsmooth-feedstock : Not on GitHub or PyPI
+conda-forge/r-mass-feedstock : Not on GitHub or PyPI
+conda-forge/ctk-cli-feedstock : Not on GitHub or PyPI
+conda-forge/f90nml-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-libxft-feedstock : Not on GitHub or PyPI
+conda-forge/r-mgcv-feedstock : Not on GitHub or PyPI
+conda-forge/r-nlme-feedstock : Not on GitHub or PyPI
+conda-forge/r-nnet-feedstock : Not on GitHub or PyPI
+conda-forge/r-rpart-feedstock : Not on GitHub or PyPI
+conda-forge/r-spatial-feedstock : Not on GitHub or PyPI
+conda-forge/dxfgrabber-feedstock : Not on GitHub or PyPI
+conda-forge/spyder-line-profiler-feedstock : Not on GitHub or PyPI
+conda-forge/spyder-memory-profiler-feedstock : Not on GitHub or PyPI
+conda-forge/george-feedstock : Not on GitHub or PyPI
+conda-forge/tblib-feedstock : Not on GitHub or PyPI
+conda-forge/rope-feedstock : Not on GitHub or PyPI
+conda-forge/mu_repo-feedstock : Not on GitHub or PyPI
+conda-forge/pandas-msgpack-feedstock : Not on GitHub or PyPI
+conda-forge/smartypants-feedstock : Not on GitHub or PyPI
+conda-forge/python-json-logger-feedstock : Not on GitHub or PyPI
+conda-forge/astor-feedstock : Not on GitHub or PyPI
+conda-forge/jira-feedstock : Not on GitHub or PyPI
+conda-forge/pycandela-feedstock : Not on GitHub or PyPI
+conda-forge/portend-feedstock : Not on GitHub or PyPI
+conda-forge/tempdir-feedstock : Not on GitHub or PyPI
+conda-forge/rednose-feedstock : Not on GitHub or PyPI
+conda-forge/socat-feedstock : Not on GitHub or PyPI
+conda-forge/openpyxl-feedstock : Not on GitHub or PyPI
+conda-forge/mpg123-feedstock : Not on GitHub or PyPI
+conda-forge/argtable2-feedstock : Not on GitHub or PyPI
+conda-forge/libsndfile-feedstock : Not on GitHub or PyPI
+conda-forge/pescador-feedstock : Not on GitHub or PyPI
+conda-forge/liknorm-py-feedstock : Not on GitHub or PyPI
+conda-forge/libev-feedstock : Not on GitHub or PyPI
+conda-forge/scalapack-feedstock : Not on GitHub or PyPI
+conda-forge/typogrify-feedstock : Not on GitHub or PyPI
+conda-forge/mdanalysis-feedstock : Not on GitHub or PyPI
+conda-forge/mwclient-feedstock : Not on GitHub or PyPI
+conda-forge/freediscovery-feedstock : Not on GitHub or PyPI
+conda-forge/weave-feedstock : Not on GitHub or PyPI
+pocean-core : No source.fn key found.
+conda-forge/libmagic-feedstock : Not on GitHub or PyPI
+conda-forge/python-magic-feedstock : Not on GitHub or PyPI
+conda-forge/promise-feedstock : Not on GitHub or PyPI
+conda-forge/fig2dev-feedstock : Not on GitHub or PyPI
+conda-forge/dask-xgboost-feedstock : Not on GitHub or PyPI
+conda-forge/msmbuilder-feedstock : Not on GitHub or PyPI
+conda-forge/pyhmc-feedstock : Not on GitHub or PyPI
+conda-forge/dask-searchcv-feedstock : Not on GitHub or PyPI
+conda-forge/cassandra-driver-feedstock : Not on GitHub or PyPI
+conda-forge/flask-ldap3-login-feedstock : Not on GitHub or PyPI
+conda-forge/pure-sasl-feedstock : Not on GitHub or PyPI
+conda-forge/sciluigi-feedstock : Not on GitHub or PyPI
+conda-forge/xfig-feedstock : Not on GitHub or PyPI
+conda-forge/turbodbc-feedstock : Not on GitHub or PyPI
+conda-forge/elektronn-feedstock : Not on GitHub or PyPI
+yaafe : Could not get package name from source.fn key.
+kaldi : Could not get package name from source.fn key.
+conda-forge/rotamerconvolvemd-feedstock : Not on GitHub or PyPI
+conda-forge/pocket-feedstock : Not on GitHub or PyPI
+conda-forge/markovify-feedstock : Not on GitHub or PyPI
+conda-forge/more-itertools-feedstock : Not on GitHub or PyPI
+conda-forge/waybackpack-feedstock : Not on GitHub or PyPI
+conda-forge/weightedcalcs-feedstock : Not on GitHub or PyPI
+conda-forge/inflect-feedstock : Not on GitHub or PyPI
+conda-forge/mastodon.py-feedstock : Not on GitHub or PyPI
+conda-forge/mdsynthesis-feedstock : Not on GitHub or PyPI
+conda-forge/modernize-feedstock : Not on GitHub or PyPI
+conda-forge/bokeh-feedstock : Not on GitHub or PyPI
+conda-forge/jieba-feedstock : Not on GitHub or PyPI
+conda-forge/utm-feedstock : Not on GitHub or PyPI
+conda-forge/climlab-feedstock : Not on GitHub or PyPI
+habanero : Could not get package name from source.fn key.
+conda-forge/mdanalysistests-feedstock : Not on GitHub or PyPI
+conda-forge/r-acepack-feedstock : Not on GitHub or PyPI
+conda-forge/r-adgoftest-feedstock : Not on GitHub or PyPI
+conda-forge/r-assertthat-feedstock : Not on GitHub or PyPI
+conda-forge/r-backports-feedstock : Not on GitHub or PyPI
+conda-forge/r-base64enc-feedstock : Not on GitHub or PyPI
+conda-forge/r-bdsmatrix-feedstock : Not on GitHub or PyPI
+conda-forge/r-bh-feedstock : Not on GitHub or PyPI
+conda-forge/r-bit-feedstock : Not on GitHub or PyPI
+conda-forge/r-bitops-feedstock : Not on GitHub or PyPI
+conda-forge/jaraco.classes-feedstock : Not on GitHub or PyPI
+conda-forge/jaraco.logging-feedstock : Not on GitHub or PyPI
+conda-forge/jaraco.stream-feedstock : Not on GitHub or PyPI
+conda-forge/orcid-feedstock : Not on GitHub or PyPI
+conda-forge/pstdint-feedstock : Not on GitHub or PyPI
+conda-forge/nbval-feedstock : Not on GitHub or PyPI
+conda-forge/pygeobase-feedstock : Not on GitHub or PyPI
+conda-forge/gspread-feedstock : Not on GitHub or PyPI
+conda-forge/molpx-feedstock : Not on GitHub or PyPI
+conda-forge/thrift_sasl-feedstock : Not on GitHub or PyPI
+conda-forge/r-gsl-feedstock : Not on GitHub or PyPI
+conda-forge/r-gtable-feedstock : Not on GitHub or PyPI
+conda-forge/r-gtools-feedstock : Not on GitHub or PyPI
+conda-forge/r-highr-feedstock : Not on GitHub or PyPI
+conda-forge/r-hms-feedstock : Not on GitHub or PyPI
+conda-forge/r-iterators-feedstock : Not on GitHub or PyPI
+conda-forge/r-janeaustenr-feedstock : Not on GitHub or PyPI
+conda-forge/r-brew-feedstock : Not on GitHub or PyPI
+conda-forge/r-jpeg-feedstock : Not on GitHub or PyPI
+conda-forge/r-chron-feedstock : Not on GitHub or PyPI
+conda-forge/r-colorspace-feedstock : Not on GitHub or PyPI
+conda-forge/r-ctv-feedstock : Not on GitHub or PyPI
+conda-forge/r-curl-feedstock : Not on GitHub or PyPI
+conda-forge/r-data.table-feedstock : Not on GitHub or PyPI
+conda-forge/r-dbi-feedstock : Not on GitHub or PyPI
+conda-forge/r-deoptimr-feedstock : Not on GitHub or PyPI
+conda-forge/r-dichromat-feedstock : Not on GitHub or PyPI
+conda-forge/astroquery-feedstock : Not on GitHub or PyPI
+conda-forge/ads-feedstock : Not on GitHub or PyPI
+conda-forge/metaphone-feedstock : Not on GitHub or PyPI
+conda-forge/chest-feedstock : Not on GitHub or PyPI
+conda-forge/schwimmbad-feedstock : Not on GitHub or PyPI
+conda-forge/corner-feedstock : Not on GitHub or PyPI
+conda-forge/sphinx-autobuild-feedstock : Not on GitHub or PyPI
+conda-forge/fbprophet-feedstock : Not on GitHub or PyPI
+conda-forge/jdcal-feedstock : Not on GitHub or PyPI
+conda-forge/nd2reader-feedstock : Not on GitHub or PyPI
+conda-forge/dropbox-feedstock : Not on GitHub or PyPI
+conda-forge/pluggy-feedstock : Not on GitHub or PyPI
+conda-forge/pydstool-feedstock : Not on GitHub or PyPI
+genutil : No source.fn key found.
+conda-forge/flask-security-feedstock : Not on GitHub or PyPI
+conda-forge/r-estimability-feedstock : Not on GitHub or PyPI
+conda-forge/r-formatr-feedstock : Not on GitHub or PyPI
+conda-forge/r-formula-feedstock : Not on GitHub or PyPI
+conda-forge/r-fracdiff-feedstock : Not on GitHub or PyPI
+conda-forge/r-functional-feedstock : Not on GitHub or PyPI
+conda-forge/r-git2r-feedstock : Not on GitHub or PyPI
+conda-forge/r-gridbase-feedstock : Not on GitHub or PyPI
+pagmo : No source.fn key found.
+conda-forge/xorg-makedepend-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-printproto-feedstock : Not on GitHub or PyPI
+conda-forge/xorg-xbitmaps-feedstock : Not on GitHub or PyPI
+conda-forge/df2gspread-feedstock : Not on GitHub or PyPI
+conda-forge/astrocats-feedstock : Not on GitHub or PyPI
+conda-forge/atomicwrites-feedstock : Not on GitHub or PyPI
+conda-forge/pytest-lazy-fixture-feedstock : Not on GitHub or PyPI
+conda-forge/pandas-datareader-feedstock : Not on GitHub or PyPI
